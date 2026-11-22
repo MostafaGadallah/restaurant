@@ -1,0 +1,517 @@
+{
+ "restaurant": "عنتر الكبابجي",
+ "slug": "antar_menu",
+ "source": "https://aklmsr.com/restaurants/giza/place-vsey6dqbb4",
+ "source_updated": "١١ أكتوبر ٢٠٢٦",
+ "address": "البحر الأعظم، رابعة، الجيزة",
+ "phone": "01000451234",
+ "whatsapp": "20238508510",
+ "sections": [
+  {
+   "name": "الأطباق الرئيسية",
+   "items": [
+    {
+     "name": "طاسة كبدة ومخاصي وكلاوي وكفته محمرة باللية",
+     "price": 390,
+     "desc": "Pan seared lamb liver, kidneys, kofta & fries"
+    },
+    {
+     "name": "نص فرخة روستو بالبطاطس والبصل المكرمل",
+     "price": 250,
+     "desc": "Half roasted chicken & potatoes"
+    },
+    {
+     "name": "ورق عنب بالكوارع",
+     "price": 350,
+     "desc": "Stuffed grape leaves & oxfeet tajin"
+    },
+    {
+     "name": "فخارة رقبة ضاني بالبصل",
+     "price": 480,
+     "desc": "Lamb neck tajin"
+    },
+    {
+     "name": "طاسة كفتة بالصلصة وطشة الزبادي",
+     "price": 295,
+     "desc": "Ground lamb with garlic yogurt sauce"
+    },
+    {
+     "name": "كتف ضاني نيفة",
+     "price": 1100,
+     "desc": "Braised lamb shoulder (Kilo)"
+    },
+    {
+     "name": "موزة ضاني مع الفتة",
+     "price": 520,
+     "desc": "Lamb shank served with fata rice"
+    },
+    {
+     "name": "كفتة داوود باشا",
+     "price": 295,
+     "desc": "Kofta dawood pasha"
+    },
+    {
+     "name": "نصف بطة روستو مع أرز خلطة",
+     "price": 380,
+     "desc": "Half roasted duck served with spiced rice"
+    },
+    {
+     "name": "لحمة محمرة مع الفتة",
+     "price": 280,
+     "desc": "Pan seared beef served with fata rice"
+    },
+    {
+     "name": "حمام محشي",
+     "price": 185,
+     "desc": "Rice stuffed pigeon"
+    },
+    {
+     "name": "رقبة ضاني مع فتة",
+     "price": 480,
+     "desc": "Lamb neck served with fata rice"
+    },
+    {
+     "name": "نصف دجاجة محمرة مع ملوخية",
+     "price": 250,
+     "desc": "Half pan seared chicken served with molokhia"
+    },
+    {
+     "name": "ضلوع ضاني مع البصل المكرمل",
+     "price": 470,
+     "desc": "Lamb ribs with caramelized onion"
+    },
+    {
+     "name": "واحد سمان مشوي",
+     "price": 160,
+     "desc": "One grilled quail"
+    },
+    {
+     "name": "شوربة كوارع مع فتة",
+     "price": 280,
+     "desc": "Oxfeet soup served with fata rice"
+    },
+    {
+     "name": "جلاش بالبط",
+     "price": 170,
+     "desc": "Gullash stuffed with duck"
+    },
+    {
+     "name": "طاجن بامية باللحم",
+     "price": 300,
+     "desc": "Braised beef & okra"
+    },
+    {
+     "name": "طاجن عكاوي بالبصل المبهر",
+     "price": 450,
+     "desc": "Oxtail with spiced onion sauce"
+    },
+    {
+     "name": "مسقعة",
+     "price": 220,
+     "desc": "Mossaka"
+    },
+    {
+     "name": "طاجن بطاطس باللحم",
+     "price": 300,
+     "desc": "Braised beef & potatoes"
+    },
+    {
+     "name": "لحم بالبصل المبهر",
+     "price": 300,
+     "desc": "Beef with spiced onion sauce"
+    },
+    {
+     "name": "مبكبكة",
+     "price": 300,
+     "desc": "Mobkbka"
+    },
+    {
+     "name": "بطاطس بالسجق",
+     "price": 250,
+     "desc": "Sujuk & potatoes"
+    },
+    {
+     "name": "طاجن فريك باللحم",
+     "price": 300,
+     "desc": "Braised beef & Freekeh"
+    },
+    {
+     "name": "رز معمر بالقشطة البلدي",
+     "price": 180,
+     "desc": "Mummar Rice oven baked rice with milk"
+    }
+   ]
+  },
+  {
+   "name": "كبدة وسجق",
+   "items": [
+    {
+     "name": "سجق ضاني خلطة بصوص الطماطم",
+     "price": 210,
+     "desc": "Lamb sausage in tomato sauce"
+    },
+    {
+     "name": "كبدة بانية",
+     "price": 150,
+     "desc": "Beef liver cutlets"
+    },
+    {
+     "name": "كبدة خلطة بصوص الطحينة",
+     "price": 150,
+     "desc": "Calf liver in tahini sauce"
+    },
+    {
+     "name": "مزاليكا كبدة فراخ بدبس الرمان",
+     "price": 100,
+     "desc": "Mazalika chicken liver with pomegranate molasse"
+    },
+    {
+     "name": "سجق بدبس الرمان",
+     "price": 210,
+     "desc": "Lamb sausage with pomegranate molasses"
+    }
+   ]
+  },
+  {
+   "name": "مدخن",
+   "items": [
+    {
+     "name": "كتف ضاني مدخن",
+     "price": 1050,
+     "desc": "BBQ lamb shoulder"
+    },
+    {
+     "name": "ورك رومي مدخن",
+     "price": 400,
+     "desc": "BBQ turkey leg"
+    }
+   ]
+  },
+  {
+   "name": "صواني",
+   "items": [
+    {
+     "name": "صينية عيلة العيلة",
+     "price": 3700,
+     "desc": "١/٢ ك كباب، ١/٢ ك كفتة، ١/٢ ك طرب، ١/٢ ك ريش، ١/٢ ك طاووق، ١/٢ ك صدور، ١/٢ ك كبدة، ١/٢ ك ممبار، ١/٢ ك محشي، ٢ حواوشي، ٢ ك أرز بسمتي"
+    },
+    {
+     "name": "صينية العيلة",
+     "price": 2200,
+     "desc": "١/٢ كيلو كفتة، ١/٢ كيلو طرب، ١/٢ كيلو شيش، ١/٢ كيلو ممبار، ١/٢ كيلو كبده، سمبوسك جبنه، ١/٢ كيلو محاشي، ملوخية، خضار، ٢ شوربة حمام، ارز بسمتي بالزبيب"
+    },
+    {
+     "name": "صينية الكبابجي",
+     "price": 1500,
+     "desc": "١/٤ كباب، ١/٤ ريش، ١/٤ طرب، ١/٤ كفته، ١/٤ ممبار مع ارز بسمتي"
+    },
+    {
+     "name": "صينية التوفير 2",
+     "price": 1100,
+     "desc": "١/٤ ك كباب، ١/٤ ك كفتة، ١/٤ ك سجق مشوى، ١/٤ ك شيش طاووق، ١/٤ ممبار، ارز بسمتي"
+    },
+    {
+     "name": "صينية التوفير",
+     "price": 900,
+     "desc": "٦ قطع فراخ شيش، ١/٤ ممبار، ١/٤ كبده، ١/٤ سجق، ١/٤ محاشي، ١/٢ كيلو ارز بسمتي"
+    },
+    {
+     "name": "صينية الباكو",
+     "price": 1100,
+     "desc": "فرخة شيش، ١/٤ ممبار، ١/٤ مشكل، ١/٤ سجق، ١/٤ ورق عنب، سمبوسة جبنة، ١/٢ كيلو ارز بسمتي"
+    }
+   ]
+  },
+  {
+   "name": "الأصناف الجانبية",
+   "items": [
+    {
+     "name": "ممبار",
+     "price": 110
+    },
+    {
+     "name": "محشي دولمة مشكل",
+     "price": 85
+    },
+    {
+     "name": "محشي ورق عنب",
+     "price": 100
+    },
+    {
+     "name": "ارز بالخلطة مع كبدة دجاج",
+     "price": 100
+    },
+    {
+     "name": "ارز شعرية / ارز ابيض",
+     "price": 75
+    },
+    {
+     "name": "ارز بسمتي",
+     "price": 90
+    },
+    {
+     "name": "فتة سادة",
+     "price": 90
+    },
+    {
+     "name": "مكرونة اسباجتي لحم مفروم",
+     "price": 110
+    },
+    {
+     "name": "مكرونة اسباجتي صوص احمر",
+     "price": 90
+    },
+    {
+     "name": "مكرونة بشاميل باللحم المفروم",
+     "price": 110
+    },
+    {
+     "name": "مكرونة صوص ابيض",
+     "price": 90
+    },
+    {
+     "name": "بطاطس محمرة",
+     "price": 60
+    },
+    {
+     "name": "ملوخية",
+     "price": 90
+    },
+    {
+     "name": "دولمة",
+     "price": 100
+    },
+    {
+     "name": "سمبوسك لحم مفروم",
+     "price": 90
+    },
+    {
+     "name": "سمبوسك جبنة وزيتون",
+     "price": 70
+    },
+    {
+     "name": "خضار اليوم",
+     "price": 65
+    },
+    {
+     "name": "خضار سوتيه",
+     "price": 65
+    },
+    {
+     "name": "سمبوسك سي فود",
+     "price": 95
+    },
+    {
+     "name": "ارز صيادية سادة",
+     "price": 45
+    },
+    {
+     "name": "ارز صيادية بالجمبري",
+     "price": 290
+    },
+    {
+     "name": "ارز سي فود",
+     "price": 290
+    },
+    {
+     "name": "ملوخية بالجمبري",
+     "price": 290
+    }
+   ]
+  },
+  {
+   "name": "الشوربة",
+   "items": [
+    {
+     "name": "شوربة لسان عصفور",
+     "price": 35
+    },
+    {
+     "name": "شوربة خضار",
+     "price": 60
+    },
+    {
+     "name": "شوربة اليوم",
+     "price": 75
+    },
+    {
+     "name": "شوربة دجاج بالكريمة",
+     "price": 75
+    },
+    {
+     "name": "شوربة عدس",
+     "price": 60
+    },
+    {
+     "name": "شوربة حمام",
+     "price": 80
+    },
+    {
+     "name": "شوربة كوارع",
+     "price": 110
+    },
+    {
+     "name": "شوربة سي فود",
+     "price": 290
+    }
+   ]
+  },
+  {
+   "name": "السي فود (Sea Food)",
+   "items": [
+    {
+     "name": "جمبري كبير",
+     "price": 1600
+    },
+    {
+     "name": "جمبري كبير مقشر",
+     "price": 1700
+    },
+    {
+     "name": "بلطي",
+     "price": 220
+    },
+    {
+     "name": "قاروص",
+     "price": 1000
+    },
+    {
+     "name": "سبيط",
+     "price": 720
+    },
+    {
+     "name": "بربوني",
+     "price": 400
+    },
+    {
+     "name": "بوري",
+     "price": 450
+    },
+    {
+     "name": "فيليه جزل",
+     "price": 420
+    },
+    {
+     "name": "دنيس",
+     "price": 1000
+    },
+    {
+     "name": "موسي",
+     "price": 1000
+    }
+   ]
+  },
+  {
+   "name": "طواجن وصواني",
+   "items": [
+    {
+     "name": "بصلصة الشبت والبقدونس / صيادية",
+     "noPrice": true
+    },
+    {
+     "name": "بطاطس بالصوص الأبيض أو الأحمر",
+     "noPrice": true
+    },
+    {
+     "name": "خضروات بالصوص الأحمر أو بالسبايسي صوص",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "أطباق الشيف",
+   "items": [
+    {
+     "name": "صينية فواكه البحر",
+     "price": 290,
+     "desc": "Fruit de mare"
+    },
+    {
+     "name": "فاهيتا جمبري تقدم مع أرز",
+     "price": 375,
+     "desc": "Shrimp Fajita Served with rice"
+    },
+    {
+     "name": "بلح البحر مارينارا",
+     "price": 250,
+     "desc": "Mussels marinara"
+    },
+    {
+     "name": "مكرونة سي فود بالموتزريلا صوص أحمر أو أبيض",
+     "price": 290,
+     "desc": "Seafood pasta marinara or cream sauce"
+    },
+    {
+     "name": "كابوريا مشوية",
+     "price": 600,
+     "desc": "Grilled crabs"
+    },
+    {
+     "name": "ميكس سي فود مقلي",
+     "price": 350,
+     "desc": "Fried mix sea food"
+    },
+    {
+     "name": "شيش فيليه",
+     "price": 200,
+     "desc": "Shish fillet"
+    },
+    {
+     "name": "سالمون بصوص الزبدة والليمون",
+     "desc": "Butter and lemon salamon",
+     "noPrice": true
+    },
+    {
+     "name": "مكرونة سي فود بالخضروات صوص أحمر أو أبيض",
+     "price": 290,
+     "desc": "Seafood pasta marinara or cream sauce"
+    },
+    {
+     "name": "باييلا",
+     "price": 290,
+     "desc": "Pallela"
+    },
+    {
+     "name": "فيليه مع الخضار بصوص الكاري",
+     "price": 200,
+     "desc": "Fish curry with vegetables"
+    }
+   ]
+  },
+  {
+   "name": "السلطات (SALAD BAR)",
+   "items": [
+    {
+     "name": "بار (تشكيلة سلطات)",
+     "price": 25,
+     "desc": "بابا غنوج، باذنجان مخلل، مخلل مشكل، طماطم مخللة، طماطم حارة، سلطة خضراء، سلطة زبادي، بطاطس بالشبت، بنجر، مش، طحينة، حمص بالطحينة، راهب، ثومية، حمص خلطة"
+    }
+   ]
+  },
+  {
+   "name": "وجبات الأطفال (KIDS MEALS)",
+   "items": [
+    {
+     "name": "وجبة بانية",
+     "price": 110,
+     "desc": "تقدم مع اختيارك من بطاطس أو مكرونة أو أرز"
+    },
+    {
+     "name": "وجبة شيش طاووق",
+     "price": 110,
+     "desc": "تقدم مع اختيارك من بطاطس أو مكرونة أو أرز"
+    },
+    {
+     "name": "وجبة كفتة",
+     "price": 155,
+     "desc": "تقدم مع اختيارك من بطاطس أو مكرونة أو أرز"
+    },
+    {
+     "name": "وجبة سمك فيليه",
+     "price": 100,
+     "desc": "تقدم مع اختيارك من بطاطس أو مكرونة أو أرز"
+    }
+   ]
+  }
+ ]
+}

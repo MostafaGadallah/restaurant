@@ -1,0 +1,822 @@
+{
+ "restaurant": "الكحلاوى",
+ "slug": "el_kahlawy_menu",
+ "source": "https://aklmsr.com/restaurants/giza/place-kaudhn4cm8",
+ "source_updated": "٢٥ أكتوبر ٢٠٢٦",
+ "address": "105 شارع التحرير، الدقي، الجيزة",
+ "phone": "01229648343",
+ "whatsapp": null,
+ "sections": [
+  {
+   "name": "PAN",
+   "items": [
+    {
+     "name": "Kiri Cheese Sausage Pan",
+     "price": 249
+    },
+    {
+     "name": "Crispy Pepperoni",
+     "price": 265
+    },
+    {
+     "name": "Buffalo Chicken",
+     "price": 249
+    }
+   ]
+  },
+  {
+   "name": "BEEF MAIN DISH",
+   "items": [
+    {
+     "name": "Beef Escalope",
+     "desc": "meat with onions served with rice and bread",
+     "noPrice": true
+    },
+    {
+     "name": "Fillet Mushroom",
+     "price": 399,
+     "desc": "beef fillet served with a brown sauce and mushrooms"
+    },
+    {
+     "name": "Mushroom Piccata",
+     "price": 399,
+     "desc": "beef fillet served with a brown sauce and mushrooms"
+    },
+    {
+     "name": "Pepper Sauce Fillet",
+     "price": 349,
+     "desc": "beef fillet served with pepper sauce"
+    }
+   ]
+  },
+  {
+   "name": "CHICKEN MAIN DISHES",
+   "items": [
+    {
+     "name": "Chicken Pane Bechamel",
+     "price": 299,
+     "desc": "chicken breasts topped with bechamel sauce bacon, and mozzarella, served with fries"
+    },
+    {
+     "name": "Chicken Snow Way",
+     "price": 299,
+     "desc": "fried chicken served with a creamy sauce mushrooms, and cheese"
+    },
+    {
+     "name": "Chicken Cordon Bleu",
+     "price": 325,
+     "desc": "chicken breasts topped with bacon turkey, mozzarella cheese, red cheddar cheese and fresh mushrooms"
+    },
+    {
+     "name": "Pesto Chicken",
+     "price": 285,
+     "desc": "chicken breasts served with pesto sauce"
+    },
+    {
+     "name": "Country Chicken",
+     "price": 259,
+     "desc": "boneless chicken breasts topped with bacon and smoked turkey, then finished with melted mozzarella cheese"
+    },
+    {
+     "name": "Grilled Chicken",
+     "price": 259,
+     "desc": "chicken breasts"
+    },
+    {
+     "name": "Chicken Sweet and Sour",
+     "price": 260,
+     "desc": "chicken breasts served with a special sweet and sour sauce created by shay b lemon"
+    },
+    {
+     "name": "Chicken Escalope",
+     "price": 275,
+     "desc": "Crispy breaded chicken, golden fried to perfection, tender and juicy inside - a classic favorite"
+    },
+    {
+     "name": "Chicken Caramelized",
+     "price": 299,
+     "desc": "fried chicken breasts served with brown mushrooms and caramelized onions"
+    },
+    {
+     "name": "Chicken Shay B Lamon",
+     "price": 350,
+     "desc": "grilled chicken, hotdog, cheese sauce bell peppers"
+    },
+    {
+     "name": "Chicken Donuts",
+     "price": 375,
+     "desc": "chicken breasts topped with mushrooms bacon, turkey, and mozzarella cheese all smothered in cheddar sauce"
+    },
+    {
+     "name": "Chicken Brown Sauce",
+     "price": 320,
+     "desc": "grilled chicken breast served with a rich and savory brown sauce"
+    },
+    {
+     "name": "Indian Curry Chicken",
+     "price": 285,
+     "desc": "grilled chicken breast served with curry sauce and vibrant bell peppers ,accompanied by white basmati rice"
+    },
+    {
+     "name": "Chicken Madness",
+     "desc": "fried chicken served with a creamy sauce mushrooms , and cheese",
+     "noPrice": true
+    },
+    {
+     "name": "Creamy Grilled Chicken",
+     "price": 320,
+     "desc": "chicken breasts topped with bacon turkey , mozzarella cheese , red cheddar cheese and fresh mushrooms"
+    }
+   ]
+  },
+  {
+   "name": "TACOS",
+   "items": [
+    {
+     "name": "Chicken Tacos",
+     "desc": "Tender chicken, crunchy coleslaw, and bold flavors wrapped in soft tortillas a bite of pure street goodness",
+     "noPrice": true
+    },
+    {
+     "name": "Beef Tacos",
+     "desc": "juicy beef patties in soft tortillas topped with fresh veggies and a flavorful sauce for the perfect bite every time.",
+     "noPrice": true
+    },
+    {
+     "name": "Shrimp Tacos",
+     "desc": "Crispy shrimp tossed in a spicy creamy sauce, served in soft tortillas with fresh toppings for a bold, flavorful bite",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "مشروبات ساخنة",
+   "items": [
+    {
+     "name": "Hazelnut Coffee",
+     "price": 95
+    },
+    {
+     "name": "Cinnamon",
+     "price": 60
+    },
+    {
+     "name": "Hot Chocolate",
+     "price": 100
+    },
+    {
+     "name": "Milk With Cinnamon",
+     "price": 75
+    },
+    {
+     "name": "Red Tea",
+     "price": 55
+    },
+    {
+     "name": "Hot Cider",
+     "price": 80
+    },
+    {
+     "name": "Small Tea Kettle",
+     "price": 70
+    },
+    {
+     "name": "Herb Cocktail",
+     "price": 80
+    },
+    {
+     "name": "Large Tea Kettle",
+     "price": 90
+    },
+    {
+     "name": "Boiled Lemon",
+     "price": 60
+    },
+    {
+     "name": "Green Tea",
+     "price": 60
+    },
+    {
+     "name": "Sahlab",
+     "price": 95
+    },
+    {
+     "name": "Anise",
+     "price": 55
+    },
+    {
+     "name": "Sahlab With Cinnamon",
+     "price": 110
+    },
+    {
+     "name": "Mint",
+     "price": 55
+    },
+    {
+     "name": "Sahlab With Nuts",
+     "price": 120
+    },
+    {
+     "name": "Ginger",
+     "price": 50
+    },
+    {
+     "name": "Earlgray Tea",
+     "price": 65
+    },
+    {
+     "name": "Green Tea & Mint",
+     "price": 65
+    },
+    {
+     "name": "Green Tea Sencha",
+     "price": 65
+    },
+    {
+     "name": "Milk Tea",
+     "price": 65
+    },
+    {
+     "name": "Hibiscuse",
+     "price": 55
+    }
+   ]
+  },
+  {
+   "name": "Fresh Juice",
+   "items": [
+    {
+     "name": "Mango",
+     "price": 95
+    },
+    {
+     "name": "Pineapple",
+     "price": 105
+    },
+    {
+     "name": "Strawberry",
+     "price": 85
+    },
+    {
+     "name": "Roman",
+     "price": 75
+    },
+    {
+     "name": "Guava",
+     "price": 85
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 85
+    },
+    {
+     "name": "Guava With Milk",
+     "price": 95
+    },
+    {
+     "name": "Dates With Milk",
+     "price": 95
+    },
+    {
+     "name": "Banana With Milk",
+     "price": 85
+    },
+    {
+     "name": "Avocado",
+     "price": 140
+    },
+    {
+     "name": "Watermelon",
+     "price": 85
+    },
+    {
+     "name": "Kiwi",
+     "price": 135
+    },
+    {
+     "name": "Plum",
+     "price": 85
+    },
+    {
+     "name": "Orange",
+     "price": 75
+    },
+    {
+     "name": "Peach",
+     "price": 75
+    },
+    {
+     "name": "Lemon",
+     "price": 70
+    },
+    {
+     "name": "Mint Lemonade",
+     "price": 85
+    },
+    {
+     "name": "Tangerine",
+     "price": 75
+    },
+    {
+     "name": "Pomegranate",
+     "price": 75
+    }
+   ]
+  },
+  {
+   "name": "Smoothies",
+   "items": [
+    {
+     "name": "Watermelon",
+     "price": 95
+    },
+    {
+     "name": "Passion Fruit",
+     "price": 100
+    },
+    {
+     "name": "Watermelon Mint",
+     "price": 105
+    },
+    {
+     "name": "Peach",
+     "price": 95
+    },
+    {
+     "name": "Mango",
+     "price": 110
+    },
+    {
+     "name": "Blueberry",
+     "price": 100
+    },
+    {
+     "name": "Strawberry",
+     "price": 95
+    },
+    {
+     "name": "Mint Blueberry",
+     "price": 110
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 90
+    },
+    {
+     "name": "Cola",
+     "price": 100
+    },
+    {
+     "name": "Kiwi",
+     "price": 140
+    },
+    {
+     "name": "Lemon",
+     "price": 80
+    },
+    {
+     "name": "Mint Lemmonade",
+     "price": 90
+    }
+   ]
+  },
+  {
+   "name": "Frappe",
+   "items": [
+    {
+     "name": "Latte",
+     "price": 120
+    },
+    {
+     "name": "Mocha",
+     "price": 120
+    },
+    {
+     "name": "Caramel",
+     "price": 110
+    },
+    {
+     "name": "Chocolate (White - Dark)",
+     "price": 140
+    },
+    {
+     "name": "Frappuccino",
+     "price": 125
+    },
+    {
+     "name": "Lotus",
+     "price": 150
+    },
+    {
+     "name": "Peanut Butter",
+     "price": 145
+    },
+    {
+     "name": "Pistachio",
+     "price": 145
+    },
+    {
+     "name": "Oreo",
+     "price": 120
+    }
+   ]
+  },
+  {
+   "name": "Iced",
+   "items": [
+    {
+     "name": "Latte",
+     "price": 95
+    },
+    {
+     "name": "Spanish Latte",
+     "price": 100
+    },
+    {
+     "name": "Pistachio Latte",
+     "price": 115
+    },
+    {
+     "name": "Lotus Latte",
+     "price": 120
+    },
+    {
+     "name": "American Coffee",
+     "price": 85
+    },
+    {
+     "name": "Blue Spanish Latte",
+     "price": 110
+    },
+    {
+     "name": "Mocha (Dark - White)",
+     "price": 100
+    },
+    {
+     "name": "Macchiato Caramel",
+     "price": 105
+    },
+    {
+     "name": "Cappuccino",
+     "price": 95
+    }
+   ]
+  },
+  {
+   "name": "Shakes",
+   "items": [
+    {
+     "name": "Vanilla",
+     "price": 100
+    },
+    {
+     "name": "Blueberry",
+     "price": 120
+    },
+    {
+     "name": "Chocolate",
+     "price": 120
+    },
+    {
+     "name": "Cheesecake",
+     "price": 145
+    },
+    {
+     "name": "Strawberry",
+     "price": 110
+    },
+    {
+     "name": "Passion Fruit",
+     "price": 125
+    },
+    {
+     "name": "Lotus",
+     "price": 135
+    },
+    {
+     "name": "Peanut Butter",
+     "price": 135
+    },
+    {
+     "name": "Mango",
+     "price": 120
+    },
+    {
+     "name": "Pistachio",
+     "price": 145
+    },
+    {
+     "name": "Dulce De Leche",
+     "price": 140
+    },
+    {
+     "name": "Oreo",
+     "price": 135
+    }
+   ]
+  },
+  {
+   "name": "PASTA",
+   "items": [
+    {
+     "name": "Chili Beef Lasagna",
+     "price": 335,
+     "desc": "lasagna rolls served with cheesy fries, jalapenos and chili beef"
+    },
+    {
+     "name": "Curry pasta",
+     "price": 249,
+     "desc": "grilled chicken, white sauce, curry sauce"
+    },
+    {
+     "name": "Beef Alfredo",
+     "price": 385,
+     "desc": "beef, penne pasta, white sauce, pesto sauce"
+    },
+    {
+     "name": "Mac & Cheese Pasta",
+     "price": 260,
+     "desc": "pasta, cheese sauce, mozzarella cheese, red cheddar cheese, bacon, turkey, bell peppers"
+    },
+    {
+     "name": "Steak Pasta",
+     "price": 375,
+     "desc": "description needed"
+    },
+    {
+     "name": "Penne Arrabiata",
+     "price": 155,
+     "desc": "pasta with red sauce and green peppers"
+    },
+    {
+     "name": "Negresco Pasta",
+     "price": 275,
+     "desc": "grilled chicken, penne pasta, white sauce, mozzarella cheese"
+    },
+    {
+     "name": "Seafood Pasta with Pink Sauce",
+     "price": 290,
+     "desc": "shrimp, calamari, crab sticks, penne pasta, cream, pink sauce"
+    },
+    {
+     "name": "Alfredo Pasta",
+     "price": 229,
+     "desc": "grilled chicken, penne pasta, white sauce, pesto sauce"
+    },
+    {
+     "name": "Mac & Cheese Strips",
+     "price": 299,
+     "desc": "mozzarella cheese, pizza sauce, kiri, chicken strips"
+    },
+    {
+     "name": "Pisto Pasta",
+     "price": 239,
+     "desc": "grilled chicken or shrimp, penne pasta, white sauce, pesto sauce"
+    }
+   ]
+  },
+  {
+   "name": "PIZZA",
+   "items": [
+    {
+     "name": "Seafood Wasabi",
+     "price": 335,
+     "desc": "mozzarella cheese, wasabi sauce, calamari, shrimp, pizza sauce, crab"
+    },
+    {
+     "name": "Seafood Ranch",
+     "price": 299,
+     "desc": "mozzarella cheese, ranch sauce, calamari, shrimp, pizza sauce, crab"
+    },
+    {
+     "name": "Creamy Onion Nashville",
+     "price": 199,
+     "desc": "mozzarella cheese, nashville sauce, onion, crispy chicken, pizza sauce"
+    },
+    {
+     "name": "Crispy Pepperoni Pan",
+     "desc": "deselption needed",
+     "noPrice": true
+    },
+    {
+     "name": "Margherita",
+     "price": 199,
+     "desc": "mozzarella cheese, pizza sauce"
+    },
+    {
+     "name": "4 CHEESE",
+     "price": 255,
+     "desc": "mozzarella cheese, cheddar cheese, roquefort cheese, kiri cheese, pizza sauce"
+    },
+    {
+     "name": "Pepperoni",
+     "price": 249,
+     "desc": "mozzarella cheese, pizza sauce, pepperoni"
+    },
+    {
+     "name": "Grilled Chicken Pan",
+     "desc": "mozzarella cheese, grilled chicken, turkey, white sauce, bell peppers, pesto sauce",
+     "noPrice": true
+    },
+    {
+     "name": "Chicken Pesto",
+     "price": 285,
+     "desc": "mozzarella cheese, grilled chicken, turkey, white sauce, bell peppers, pesto sauce"
+    },
+    {
+     "name": "Ranch Pizza",
+     "price": 275,
+     "desc": "mozzarella cheese, crispy chicken, ranch sauce, jalapeno peppers"
+    },
+    {
+     "name": "Pizza Sandwich Burger",
+     "price": 285,
+     "desc": "mozzarella cheese, cheese sauce, burger, pizza sauce, BBQ, pepperoni, fries, lettuce"
+    },
+    {
+     "name": "Big Tasty Pizza",
+     "price": 275,
+     "desc": "mozzarella cheese, big tasty sauce, burger, pizza sauce"
+    },
+    {
+     "name": "BBQ Pizza",
+     "price": 255,
+     "desc": "mozzarella cheese, BBQ sauce, crispy chicken, pizza sauce"
+    },
+    {
+     "name": "Buffalo Pizza",
+     "price": 285,
+     "desc": "mozzarella cheese, buffalo sauce, crispy chicken, pizza sauce"
+    },
+    {
+     "name": "Dynamite Shrimp",
+     "price": 335,
+     "desc": "mozzarella cheese, jalapeno, shrimp, pizza sauce"
+    },
+    {
+     "name": "Seafood Pizza",
+     "price": 299,
+     "desc": "mozzarella cheese, calamari, shrimp, pizza sauce, crab"
+    }
+   ]
+  },
+  {
+   "name": "SWEET FETEER",
+   "items": [
+    {
+     "name": "Nutella",
+     "price": 225
+    },
+    {
+     "name": "Bughasha",
+     "price": 199
+    },
+    {
+     "name": "Chocolate Banana",
+     "price": 235
+    },
+    {
+     "name": "Ashta Honey",
+     "price": 199
+    },
+    {
+     "name": "Lotus",
+     "price": 245
+    }
+   ]
+  },
+  {
+   "name": "ROQAQ",
+   "items": [
+    {
+     "name": "Roqaq With Meat",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "SAVORY FETEER",
+   "items": [
+    {
+     "name": "Chicken Feteer",
+     "price": 249,
+     "desc": "mozzarella cheese, roumy cheese, black olives, chicken"
+    },
+    {
+     "name": "Feteer Meshaltet",
+     "price": 250,
+     "desc": "Shay B Lamon Feteer"
+    },
+    {
+     "name": "Pastrami & Kiri Feteer",
+     "price": 299,
+     "desc": "mozzarella cheese, roumy cheese, black olives, pastrami, kiri"
+    },
+    {
+     "name": "Sausage, Pastrami & Kiri",
+     "price": 299,
+     "desc": "mozzarella cheese, roumy cheese, black olives, pastrami, kiri, sausage"
+    },
+    {
+     "name": "Mix Meat Feteer",
+     "desc": "mozzarella cheese, roumy cheese, black olives, pastrami, ground beef, sausage, hotdog",
+     "noPrice": true
+    },
+    {
+     "name": "Sausage & Kiri Feteer",
+     "price": 299,
+     "desc": "mozzarella cheese, roumy cheese, black olives, sausage, kiri"
+    },
+    {
+     "name": "4 Cheese Feteer",
+     "desc": "mozzarella cheese, roumy cheese, black olives, red cheese, kiri",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "SANDWICHES",
+   "items": [
+    {
+     "name": "Chicken Wrap",
+     "price": 235,
+     "desc": "chicken strips, bacon, ranch sauce, mozzarella cheese, red cheddar cheese, kabocha"
+    },
+    {
+     "name": "Shay B Lamon Burger",
+     "price": 300,
+     "desc": "double smash patties with fried mozzarella, rocca, ranch sauce"
+    },
+    {
+     "name": "Buffalo Chicken Burger",
+     "desc": "fried chicken burger covered with buffalo sauce, cheese and coleslaw",
+     "noPrice": true
+    },
+    {
+     "name": "Dynamite Shrimp Wrap",
+     "price": 285,
+     "desc": "crispy shrimps, lettuce, jalapeno, dynamite sauce"
+    },
+    {
+     "name": "Spot Burger",
+     "price": 275,
+     "desc": "sliced tender beef patty, mushroom, carmalized onion, secret sauce, jalapeno cheddar sauce"
+    },
+    {
+     "name": "Classic Hawawshi",
+     "price": 135,
+     "desc": "egyptian hawawshi served with onion pickles and tahini sauce"
+    },
+    {
+     "name": "Chicken Quesadilla",
+     "price": 215,
+     "desc": "tortilla bread, grilled chicken, mozzarella cheese, red cheddar cheese, mayonnaise, bbq sauce, soy sauce"
+    },
+    {
+     "name": "Mixed Cheese Hawawshi",
+     "price": 175,
+     "desc": "egyptian hawawshi with cheddar and roumi cheese, served with onion pickles and tahini sauce"
+    },
+    {
+     "name": "Cheesy Mix Quesadilla",
+     "price": 180,
+     "desc": "tortilla bread, mozzarella cheese, red cheddar cheese, mayonnaise, kiri"
+    },
+    {
+     "name": "Hawawshi Roll",
+     "price": 155,
+     "desc": "our signature egyptian hawawshi rolls served with tahini sauce"
+    }
+   ]
+  },
+  {
+   "name": "SALADS",
+   "items": [
+    {
+     "name": "Fattoush Salad",
+     "price": 129,
+     "desc": "tomatoes, cucumbers, kabocha, bell peppers, white onion, lemon, green bell pepper, pomegranate molasses, lebanese bread"
+    },
+    {
+     "name": "Greek Salad",
+     "price": 145,
+     "desc": "tomatoes, black olives, cucumber, green bell pepper, colored peppers, cheese"
+    },
+    {
+     "name": "Chicken Caesar Salad",
+     "price": 210,
+     "desc": "cherry tomatoes, cesar dressing, kabocha, grilled chicken"
+    },
+    {
+     "name": "Shrimp Caesar",
+     "price": 235,
+     "desc": "cherry tomatoes, cesar dressing, kabocha, shrimp"
+    },
+    {
+     "name": "Salad Cup",
+     "price": 265
+    }
+   ]
+  }
+ ]
+}

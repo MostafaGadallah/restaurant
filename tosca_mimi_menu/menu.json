@@ -1,0 +1,2286 @@
+{
+ "restaurant": "توسكا ميمي",
+ "slug": "tosca_mimi_menu",
+ "source": "https://aklmsr.com/restaurants/giza/place-xesoxwvqbw",
+ "source_updated": "٣ نوفمبر ٢٠٢٦",
+ "address": "طريق المنصورية، نزلة السمان، الهرم، الجيزة",
+ "phone": "01013390077",
+ "whatsapp": null,
+ "sections": [
+  {
+   "name": "بيتزا ايطالي",
+   "items": [
+    {
+     "name": "بيتزا مارجريتا",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 140
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "بيتزا خضار",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 150
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "بيتزا ميكس جبن",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "بيتزا ماشروم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 160
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "بيتزا كيري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سجق",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سوسيس",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 160
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "بيتزا لحمة مفرومة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 105
+      }
+     ]
+    },
+    {
+     "name": "بيتزا بسطرمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 210
+      },
+      {
+       "label": "M",
+       "price": 180
+      },
+      {
+       "label": "S",
+       "price": 160
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سلامي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "بيتزا بلوبيف",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سوبر كرانش",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سوبر سوبريم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 195
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "بيتزا ميكس لحوم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 210
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "بيتزا فاهيتا فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "بيتزا فراخ باربيكيو",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "بيتزا فراخ رانش",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سجق كيري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "بيتزا فاهيتا لحم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "بيتزا فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "بيتزا تونة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "بيتزا جمبري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 230
+      },
+      {
+       "label": "M",
+       "price": 185
+      },
+      {
+       "label": "S",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "name": "بيتزا سي فود",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 260
+      },
+      {
+       "label": "M",
+       "price": 200
+      },
+      {
+       "label": "S",
+       "price": 160
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الفتيرررر",
+   "items": [
+    {
+     "name": "فطيرة خضار",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 140
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة مشكل جبن",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "فطيرة كيري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 210
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة جبنة رومي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سجق",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 115
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سجق كيري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بسطرمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "فطيرة لحمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سوسيس",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "فطيرة ميكس لحوم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 230
+      },
+      {
+       "label": "M",
+       "price": 180
+      },
+      {
+       "label": "S",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "name": "فطيرة فراخ شيش",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "فطيرة فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة فاهيتا فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة ماشروم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سوبر سوبريم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 210
+      },
+      {
+       "label": "M",
+       "price": 180
+      },
+      {
+       "label": "S",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سوبر كرانشي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 10
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "فطيرة تونة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 205
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "name": "فطيرة جمبري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 270
+      },
+      {
+       "label": "M",
+       "price": 200
+      },
+      {
+       "label": "S",
+       "price": 170
+      }
+     ]
+    },
+    {
+     "name": "فطيرة ميكس سي فود",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 270
+      },
+      {
+       "label": "M",
+       "price": 220
+      },
+      {
+       "label": "S",
+       "price": 180
+      }
+     ]
+    },
+    {
+     "name": "فطيرة سلامي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة فراخ رانش",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة فراخ باربيكيو",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 200
+      },
+      {
+       "label": "M",
+       "price": 160
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "صواريخخخخ",
+   "items": [
+    {
+     "name": "صاروخ سجق",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سجق بلدي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سوسيس",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "صاروخ جبنة رومي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 100
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "صاروخ موتزاريللا",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 100
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "صاروخ لحمة مفرومة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "صاروخ جبنة شيدر",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "صاروخ بسطرمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 125
+      },
+      {
+       "label": "M",
+       "price": 125
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سلامي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 125
+      },
+      {
+       "label": "M",
+       "price": 125
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "صاروخ فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "صاروخ بلوبيف",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "صاروخ ماشروم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "صاروخ تونة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 160
+      },
+      {
+       "label": "M",
+       "price": 190
+      },
+      {
+       "label": "S",
+       "price": 140
+      }
+     ]
+    },
+    {
+     "name": "صاروخ جمبري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 125
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سي فود",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 140
+      },
+      {
+       "label": "M",
+       "price": 125
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ مشكل لحوم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ مشكل جبن",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سوبر سوبريم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "name": "صاروخ فراخ كرانشي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ كفتة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ سوبر كرانشي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ شيش",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 130
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 130
+      }
+     ]
+    },
+    {
+     "name": "صاروخ مشكل فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 150
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "سندوتشات",
+   "items": [
+    {
+     "name": "سندوتش شاورما فراخ",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش شاورما لحمة",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "سندوتش زنجر",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش بطاطس",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 25
+      },
+      {
+       "label": "S",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "name": "سندوتش بانية",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش كرسبي",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش كبدة",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 30
+      },
+      {
+       "label": "S",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "name": "سندوتش سجق",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 40
+      },
+      {
+       "label": "S",
+       "price": 35
+      }
+     ]
+    },
+    {
+     "name": "سندوتش كفتة",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 50
+      },
+      {
+       "label": "S",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "name": "سندوتش زنجر سوبريم",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "سندوتش سوبر رانش",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "سندوتش فاهيتا فراخ",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 85
+      },
+      {
+       "label": "S",
+       "price": 75
+      }
+     ]
+    },
+    {
+     "name": "سندوتش فاهيتا لحمة",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 90
+      },
+      {
+       "label": "S",
+       "price": 75
+      }
+     ]
+    },
+    {
+     "name": "سندوتش هوت دوج",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 60
+      },
+      {
+       "label": "S",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "name": "سندوتش هوت دوج ميكسيكان",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 65
+      },
+      {
+       "label": "S",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "name": "سندوتش شيش طاووق",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 70
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش صدور مشوية",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 70
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "سندوتش زنجر كلاسيك",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "سندوتش بازوكا",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 110
+      },
+      {
+       "label": "S",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "سندوتش مالتي زنجر",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 90
+      },
+      {
+       "label": "S",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "سندوتش بيكيني بالجبنة",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 70
+      },
+      {
+       "label": "S",
+       "price": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "السوري",
+   "items": [
+    {
+     "name": "شاورما سوري",
+     "price": 65
+    },
+    {
+     "name": "شاورما لحم",
+     "price": 75
+    },
+    {
+     "name": "فاهيتا فراخ فاهيتا لحم",
+     "price": 75
+    },
+    {
+     "name": "كريسبي",
+     "price": 85
+    },
+    {
+     "name": "زنجر",
+     "price": 85
+    },
+    {
+     "name": "بانية",
+     "price": 75
+    },
+    {
+     "name": "كفتة",
+     "price": 75
+    },
+    {
+     "name": "شيش",
+     "price": 80
+    },
+    {
+     "name": "صدور",
+     "price": 75
+    },
+    {
+     "name": "ماريا لحمة",
+     "price": 110
+    },
+    {
+     "name": "ماريا فراخ",
+     "price": 110
+    },
+    {
+     "name": "ماريا ميكس",
+     "price": 130
+    },
+    {
+     "name": "فتة شاورما فراخ",
+     "price": 90
+    },
+    {
+     "name": "فتة شاورما لحمة",
+     "price": 100
+    },
+    {
+     "name": "بطاطس",
+     "price": 25
+    },
+    {
+     "name": "بطاطس جبنة",
+     "price": 30
+    },
+    {
+     "name": "شاورما بطاطس",
+     "price": 50
+    },
+    {
+     "name": "بطاطس شيدر",
+     "price": 30
+    },
+    {
+     "name": "فطيرة توسكاميمي لحمة",
+     "price": 120
+    },
+    {
+     "name": "فطيرة توسكاميمي فراخ",
+     "price": 100
+    },
+    {
+     "name": "فاهيتا لحمة",
+     "price": 75
+    }
+   ]
+  },
+  {
+   "name": "فطير الحلو",
+   "items": [
+    {
+     "name": "فطير مشلتت",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 200
+      },
+      {
+       "label": "S",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بالسكر",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 100
+      },
+      {
+       "label": "M",
+       "price": 70
+      },
+      {
+       "label": "S",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بفاشة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "فطيرة كاستر",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 100
+      },
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 60
+      }
+     ]
+    },
+    {
+     "name": "فطيرة مربى",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 80
+      },
+      {
+       "label": "S",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بسبوسة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 150
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة كنافة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 150
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة موز",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 150
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة تفاح",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 160
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة تفاح + موز",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 130
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بسبوسة + كنافة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 160
+      },
+      {
+       "label": "M",
+       "price": 120
+      },
+      {
+       "label": "S",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "فطيرة قشطة + عسل",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة شيكولاتة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 100
+      },
+      {
+       "label": "S",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "فطيرة شيكولاتة + موز",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "فطيرة بسبوسة + قشطة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة كنافة + قشطة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 170
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة شيكولاتة مكسرات",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 190
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 120
+      }
+     ]
+    },
+    {
+     "name": "فطيرة مكسرات + موز",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 180
+      },
+      {
+       "label": "M",
+       "price": 140
+      },
+      {
+       "label": "S",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "فطيرة توسكاميمي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 280
+      },
+      {
+       "label": "M",
+       "price": 200
+      },
+      {
+       "label": "S",
+       "price": 170
+      }
+     ]
+    },
+    {
+     "name": "فور سيزون",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 400
+      },
+      {
+       "label": "M",
+       "price": 300
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الباستاااا",
+   "items": [
+    {
+     "name": "باستا سادة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 60
+      },
+      {
+       "label": "M",
+       "price": 90
+      },
+      {
+       "label": "S",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "باستا نجرسكو",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 65
+      },
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "باستا سجق",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 95
+      },
+      {
+       "label": "M",
+       "price": 85
+      },
+      {
+       "label": "S",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "باستا بشاميل",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 80
+      },
+      {
+       "label": "M",
+       "price": 75
+      },
+      {
+       "label": "S",
+       "price": 75
+      }
+     ]
+    },
+    {
+     "name": "باستا سوسيس",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 140
+      },
+      {
+       "label": "M",
+       "price": 150
+      },
+      {
+       "label": "S",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "باستا لحمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 120
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا بسطرمة",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا سلامي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا فراخ",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا كيري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا شيدر",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا ماشروم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا جمبري",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا سي فود",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا مشكل جبن",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا مشكل لحوم",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "باستا كرانشي",
+     "sizes": [
+      {
+       "label": "L",
+       "price": 110
+      },
+      {
+       "label": "M",
+       "price": 110
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الاضافات",
+   "items": [
+    {
+     "name": "باكت بطاطس",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 35
+      },
+      {
+       "label": "S",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "name": "باكت بطاطس شيدر",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 40
+      },
+      {
+       "label": "S",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "name": "باكت بطاطس موتزاريللا",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 40
+      },
+      {
+       "label": "S",
+       "price": 25
+      }
+     ]
+    },
+    {
+     "name": "باكت بطاطس شيدر سوبريم",
+     "sizes": [
+      {
+       "label": "M",
+       "price": 60
+      },
+      {
+       "label": "S",
+       "price": 30
+      }
+     ]
+    },
+    {
+     "name": "سلطة خضراء",
+     "price": 10
+    },
+    {
+     "name": "طحينة",
+     "price": 10
+    },
+    {
+     "name": "تومية عادية",
+     "price": 10
+    },
+    {
+     "name": "تومية حار",
+     "price": 10
+    },
+    {
+     "name": "باربيكيو",
+     "price": 10
+    },
+    {
+     "name": "صوص شيدر",
+     "price": 15
+    },
+    {
+     "name": "صوص رانش",
+     "price": 15
+    },
+    {
+     "name": "خيار مخلل",
+     "price": 10
+    },
+    {
+     "name": "طماطم متبلة",
+     "price": 10
+    },
+    {
+     "name": "كول سلو",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "name": "الوجبات",
+   "items": [
+    {
+     "name": "وجبة نص فرخة",
+     "price": 160
+    },
+    {
+     "name": "وجبة نص فرخة + كفتة",
+     "price": 190
+    },
+    {
+     "name": "وجبة صدر",
+     "price": 100
+    },
+    {
+     "name": "وجبة ورك",
+     "price": 90
+    },
+    {
+     "name": "وجبة نص كفتة",
+     "price": 220
+    },
+    {
+     "name": "وجبة ربع كفتة",
+     "price": 110
+    },
+    {
+     "name": "وجبة شيش",
+     "price": 110
+    },
+    {
+     "name": "وجبة صدور مخلية",
+     "price": 140
+    },
+    {
+     "name": "وجبة شيش + كفتة",
+     "price": 140
+    },
+    {
+     "name": "وجبة صدور + كفتة",
+     "price": 140
+    },
+    {
+     "name": "وجبة ورك + كفتة",
+     "price": 130
+    },
+    {
+     "name": "وجبة كباب",
+     "price": 220
+    },
+    {
+     "name": "وجبة طرب",
+     "price": 160
+    },
+    {
+     "name": "وجبة ميكس جريل",
+     "price": 250
+    }
+   ]
+  }
+ ]
+}
