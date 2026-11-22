@@ -1,0 +1,167 @@
+{
+ "restaurant": "كبابجي العربي",
+ "slug": "el_araby_menu",
+ "source": "https://dlwaqty.com/restaurants/kb-bgy-laarby",
+ "source_updated": null,
+ "address": "55 شارع اللبيني، أمام كنتاكي، فيصل",
+ "phone": "01033166989",
+ "sections": [
+  {
+   "name": "Sandwiches",
+   "items": [
+    {
+     "name": "Kunduz Kofta",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Lamb Chops",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Lamb Kebab",
+     "price": 320
+    },
+    {
+     "name": "Kilo Veal Kebab",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Kebab & Kofta",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Lamb Kofta",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Hearts with Liver & Kidneys",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Shish Tawook",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Neve",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Chicken Panne",
+     "noPrice": true
+    },
+    {
+     "name": "Kilo Mombar",
+     "price": 120
+    },
+    {
+     "name": "Mix Grill",
+     "price": 130
+    }
+   ]
+  },
+  {
+   "name": "Mouza or Ouzi",
+   "items": [
+    {
+     "name": "Lamb Mouza",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "Tawagen & Fattah",
+   "items": [
+    {
+     "name": "Vegetables with Meat Tagen",
+     "noPrice": true
+    },
+    {
+     "name": "Vine Leaves with Knuckles Tagen",
+     "price": 75
+    },
+    {
+     "name": "Knuckles Fattah",
+     "noPrice": true
+    },
+    {
+     "name": "Meat Fattah",
+     "noPrice": true
+    },
+    {
+     "name": "Moussaka'a Tagen",
+     "noPrice": true
+    },
+    {
+     "name": "Rice with Khalta",
+     "noPrice": true
+    },
+    {
+     "name": "Rice with Nuts",
+     "noPrice": true
+    },
+    {
+     "name": "Plain Molokhia",
+     "price": 240
+    }
+   ]
+  },
+  {
+   "name": "Saving Meals",
+   "items": [
+    {
+     "name": "1/4 Chicken & 1/8 Kunduz Kofta",
+     "noPrice": true
+    },
+    {
+     "name": "1/4 Mix & Stuffed Pigeo",
+     "noPrice": true
+    },
+    {
+     "name": "1/8 Kofta & 1/8 Shish Twook",
+     "noPrice": true
+    },
+    {
+     "name": "1/4 Lamb Kofta & 1/8 Shish Tawook",
+     "price": 75
+    }
+   ]
+  },
+  {
+   "name": "El Araby Saving Meals",
+   "items": [
+    {
+     "name": "Meal 8",
+     "price": 240
+    },
+    {
+     "name": "El Araby Family Plate",
+     "price": 600
+    },
+    {
+     "name": "Meat",
+     "noPrice": true
+    },
+    {
+     "name": "Turkey",
+     "price": 25
+    },
+    {
+     "name": "Chicken",
+     "price": 20
+    },
+    {
+     "name": "Can",
+     "price": 10
+    },
+    {
+     "name": "Liter Pepsi",
+     "price": 15
+    },
+    {
+     "name": "Mineral Water",
+     "noPrice": true
+    }
+   ]
+  }
+ ]
+}
