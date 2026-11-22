@@ -1,0 +1,101 @@
+{
+  "restaurant": "كشري عادل",
+  "slug": "adel_koshary_menu",
+  "source": "https://aklmsr.com/restaurants/giza/adel-koshary-ipkfr9sliw",
+  "source_updated": "٧ نوفمبر ٢٠٢٦",
+  "address": "العمرانية، الوحدة الصحية، الكنيسة، الجيزة، 3532825",
+  "phone": "01114734898",
+  "phones": [
+    "01114734898"
+  ],
+  "sections": [
+    {
+      "name": "الكشري",
+      "items": [
+        {
+          "name": "قنبلة تبارك",
+          "price": 25
+        },
+        {
+          "name": "بريمو تبارك",
+          "price": 20
+        },
+        {
+          "name": "سوبر تبارك",
+          "price": 15
+        },
+        {
+          "name": "مخصوص",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "الإضافات",
+      "items": [
+        {
+          "name": "عدس",
+          "price": 5
+        },
+        {
+          "name": "تقلية",
+          "price": 5
+        },
+        {
+          "name": "توس",
+          "price": 3
+        },
+        {
+          "name": "طماطم",
+          "price": 3
+        },
+        {
+          "name": "لحمة",
+          "price": 10
+        },
+        {
+          "name": "كبده",
+          "price": 10
+        },
+        {
+          "name": "فراخ",
+          "price": 15
+        },
+        {
+          "name": "حمص",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "الطواجن",
+      "items": [
+        {
+          "name": "طاجن فراخ",
+          "price": 20
+        },
+        {
+          "name": "طاجن كبده",
+          "price": 17
+        },
+        {
+          "name": "طاجن لحمة",
+          "price": 17
+        }
+      ]
+    },
+    {
+      "name": "الحلو",
+      "items": [
+        {
+          "name": "أرز باللبن",
+          "price": 6
+        },
+        {
+          "name": "بيبسي",
+          "price": 10
+        }
+      ]
+    }
+  ]
+}
