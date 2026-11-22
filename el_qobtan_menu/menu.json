@@ -1,0 +1,158 @@
+{
+ "restaurant": "القبطان",
+ "slug": "el_qobtan_menu",
+ "source": "https://dlwaqty.com/restaurants/lkbt-n",
+ "source_updated": null,
+ "address": "فوق نفق اللبيني، فيصل",
+ "phone": null,
+ "sections": [
+  {
+   "name": "Soups",
+   "items": [
+    {
+     "name": "El Kobtan Seafood",
+     "price": 45
+    },
+    {
+     "name": "Shrimp",
+     "price": 50
+    },
+    {
+     "name": "Roe with Shrimp",
+     "price": 55
+    },
+    {
+     "name": "Baladi Salad",
+     "noPrice": true
+    },
+    {
+     "name": "Tehina Salad",
+     "noPrice": true
+    },
+    {
+     "name": "Garlic Dip Salad",
+     "noPrice": true
+    },
+    {
+     "name": "Baba Ghannoug Salad",
+     "noPrice": true
+    },
+    {
+     "name": "Moussaka'a",
+     "noPrice": true
+    },
+    {
+     "name": "Pickled Eggplant",
+     "noPrice": true
+    },
+    {
+     "name": "Pickled Cucumber",
+     "noPrice": true
+    },
+    {
+     "name": "Beetroot Salad",
+     "noPrice": true
+    },
+    {
+     "name": "Seafood Salad",
+     "price": 45
+    },
+    {
+     "name": "Roe with Hiring Salad",
+     "price": 45
+    },
+    {
+     "name": "Tuna Salad",
+     "price": 45
+    },
+    {
+     "name": "Feseekh with Tehina Salad",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "name": "Halaqet El Kobtan",
+   "items": [
+    {
+     "name": "Red Mullet",
+     "noPrice": true
+    },
+    {
+     "name": "Lobster",
+     "noPrice": true
+    },
+    {
+     "name": "Jumbo Shrimp",
+     "noPrice": true
+    },
+    {
+     "name": "Crab",
+     "noPrice": true
+    },
+    {
+     "name": "Large Shrimp",
+     "noPrice": true
+    },
+    {
+     "name": "Medium Shrimp",
+     "noPrice": true
+    },
+    {
+     "name": "Red Mullet",
+     "noPrice": true
+    },
+    {
+     "name": "Perch Fillet",
+     "noPrice": true
+    },
+    {
+     "name": "Tray on The Way El Kobtan",
+     "noPrice": true
+    },
+    {
+     "name": "Fried with Sesame",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "Side Items",
+   "items": [
+    {
+     "name": "Plain Saydia Rice",
+     "noPrice": true
+    },
+    {
+     "name": "El Kobtan Seafood Rice",
+     "noPrice": true
+    },
+    {
+     "name": "Pasta with Seafood",
+     "noPrice": true
+    }
+   ]
+  },
+  {
+   "name": "El Kobtan Plates",
+   "items": [
+    {
+     "name": "Shrimp Fajita Plate",
+     "noPrice": true
+    },
+    {
+     "name": "Shrimp and Fillet with White Sauce",
+     "noPrice": true
+    },
+    {
+     "name": "Calamari Fajita Plate",
+     "noPrice": true
+    },
+    {
+     "name": "Shrimp & Fish Shish Kebab",
+     "price": 85
+    }
+   ]
+  }
+ ]
+}
