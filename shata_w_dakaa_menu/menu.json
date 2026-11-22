@@ -1,0 +1,50 @@
+{
+  "restaurant": "مطعم شطه ودقه",
+  "slug": "shata_w_dakaa_menu",
+  "source": "https://aklmsr.com/restaurants/giza/shata-w-dakaa-bulaq-dakrour",
+  "source_updated": "٢٦ سبتمبر ٢٠٢٦",
+  "address": "بولاق الدكرور",
+  "phone": "01122777952",
+  "phones": [
+    "01122777952",
+    "01554074362"
+  ],
+  "sections": [
+    {
+      "name": "Menu Highlights",
+      "items": [
+        {
+          "name": "خبز توست",
+          "desc": "Sliced bread toasted.",
+          "price": 15
+        },
+        {
+          "name": "كشري الكبير اوي",
+          "desc": "Koshary el kbeer awy is a famous dish that combines rice, lentils, and pasta with tomato sauce.",
+          "price": 60
+        },
+        {
+          "name": "طماطم متبلة",
+          "desc": "Experience the burst of tangy and savory flavors with our exquisite Marinated Tomatoes, guaranteed to tantalize your taste buds!",
+          "price": 15
+        },
+        {
+          "name": "كشري مخصوص",
+          "desc": "Special koshary combines lentils, rice, and pasta with tomato sauce, garlic, yogurt and laban rayeb for an unforgettable taste.",
+          "price": 50
+        },
+        {
+          "name": "أرز باللبن سادة",
+          "desc": "Natural milk with rice",
+          "price": 25
+        },
+        {
+          "name": "تقلية",
+          "desc": "Thin slices of onion fried until golden brown and crispy.",
+          "price": 15
+        }
+      ]
+    }
+  ],
+  "whatsapp": "01101148889"
+}

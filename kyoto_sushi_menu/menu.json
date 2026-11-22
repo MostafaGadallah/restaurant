@@ -1,0 +1,1025 @@
+{
+  "restaurant": "كيوتو سوشي",
+  "slug": "kyoto_sushi_menu",
+  "source": "https://aklmsr.com/restaurants/giza/kyoto-sushi-gamvqdx3so",
+  "source_updated": "٢٥ أكتوبر ٢٠٢٦",
+  "address": "الدقي",
+  "phone": "01028208027",
+  "phones": [
+    "01028208027"
+  ],
+  "sections": [
+    {
+      "name": "Teppanyaki",
+      "items": [
+        {
+          "name": "Teppanyaki Chicken",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 136
+        },
+        {
+          "name": "Teppanyaki Beef",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 223
+        },
+        {
+          "name": "Teppanyaki Mix",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 399
+        },
+        {
+          "name": "Teppanyaki Salmon",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 399
+        },
+        {
+          "name": "Teppanyaki Shrimp",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 342
+        },
+        {
+          "name": "Teppanyaki Tuna",
+          "desc": "Served with Sauteed Vegetables & Vegetable Fried Rice",
+          "price": 399
+        }
+      ]
+    },
+    {
+      "name": "Beverage",
+      "items": [
+        {
+          "name": "Water S",
+          "price": 13
+        },
+        {
+          "name": "Soft Drink",
+          "price": 34
+        },
+        {
+          "name": "Red Bull",
+          "price": 68
+        }
+      ]
+    },
+    {
+      "name": "Combo For You",
+      "items": [
+        {
+          "name": "10 Pieces",
+          "desc": "4 crispy roll, 6 hoso maki roll",
+          "price": 159
+        },
+        {
+          "name": "12 Pieces",
+          "desc": "4 new philadelphia roll, 4 crispy roll, 4 pink lady roll",
+          "price": 191
+        },
+        {
+          "name": "15 Pieces",
+          "desc": "4 crispy roll, 4 ura roll, 4 gambil roll, 3 hoso maki roll",
+          "price": 239
+        },
+        {
+          "name": "18 Pieces",
+          "desc": "6 fried ura shrimp roll, 6 spider roll, 6 fried crab siratcha roll",
+          "price": 287
+        },
+        {
+          "name": "20 Pieces",
+          "desc": "8 usa roll, 6 daynamite roll, 6 fried ura shrimp roll",
+          "price": 319
+        },
+        {
+          "name": "22 Pieces",
+          "desc": "8 ura roll, 6 hoso maki roll, 4 pink lady roll, 4 crispy roll",
+          "price": 351
+        },
+        {
+          "name": "30 Pieces",
+          "desc": "4 nigiri, 6 hoso maki roll, 8 crispy roll, 6 fried spider roll, 6 fried ura shrimp roll",
+          "price": 478
+        },
+        {
+          "name": "40 Pieces",
+          "desc": "8 new philadelphia roll, 12 hoso maki, 8 ura roll, 8 crispy roll, 4 shrimp roll",
+          "price": 638
+        }
+      ]
+    },
+    {
+      "name": "Combination Platters",
+      "items": [
+        {
+          "name": "10 Pieces",
+          "desc": "3 nigiri sushi pieces, 3 hosomaki roll pieces and 4 ura California roll pieces",
+          "price": 205
+        },
+        {
+          "name": "15 Pieces",
+          "desc": "4 nigiri sushi pieces, 3 hosomaki pieces and 8 ura california roll pieces",
+          "price": 290
+        },
+        {
+          "name": "18 Pieces",
+          "desc": "6 spicy lemon roll pieces, 6 spider roll pieces and 6 cheddar roll pieces",
+          "price": 328
+        },
+        {
+          "name": "20 Pieces",
+          "desc": "8 Usa California pieces, 6 dynamite roll pieces, 3 sashimi pieces and 3 nigiri sushi",
+          "price": 498
+        },
+        {
+          "name": "22 Pieces",
+          "desc": "4 nigiri sushi pieces, 6 hosomaki pieces, 8 ura California roll pieces and 4 sashimi pieces",
+          "price": 775
+        },
+        {
+          "name": "40 Pieces",
+          "desc": "8 nigiri sushi pieces, 12 hosomaki pieces, 8 ura california roll pieces, 8 crispy shrimp pieces and 4 shrimp roll pieces",
+          "price": 912
+        },
+        {
+          "name": "50 Pieces",
+          "desc": "8 nigiri sushi pieces, 6 hosomaki pieces, 6 fried shrimp roll pieces, 8 pink lady pieces, 8 USA roll pieces, 6 mono maki pieces and 8 crispy roll pieces",
+          "price": 1282
+        },
+        {
+          "name": "60 Pieces",
+          "desc": "10 nigiri sushi pieces, 6 hosomaki pieces, 8 California roll pieces, 8 pink lady roll pieces, 6 fried shrimp roll pieces, 6 mono maki, 8 Philadelphia roll pieces and 8 USA roll pieces",
+          "price": 1459
+        },
+        {
+          "name": "80 Pieces",
+          "desc": "8 nigiri sushi pieces, 6 spicy lemon roll pieces, 6 spider roll pieces, 6 fried shrimp roll pieces, 8 pink lady roll pieces, 8 Philadelphia roll, 8 crispy roll pieces, 8 USA California pieces, 8 mega roll, 8 ura California roll pieces and 6 dynamite roll pieces",
+          "price": 1946
+        },
+        {
+          "name": "100 Pieces",
+          "desc": "10 nigiri sushi pieces, 6 spicy lemon roll pieces, 6 spider roll pieces, 8 Philadelphia roll pieces, 8 crispy roll pieces, 8 rainbow roll pieces, 8 pink lady roll pieces, 8 shrimp roll pieces, 8 cheddar roll pieces, 8 crunchy roll pieces, 8 kyoto spicy roll pieces, 8 ura roll pieces and 6 shrimp tempura hosomaki pieces",
+          "price": 3892
+        }
+      ]
+    },
+    {
+      "name": "Hoso Maki Roll",
+      "items": [
+        {
+          "name": "Hoso Maki Avocado",
+          "price": 44
+        },
+        {
+          "name": "Hoso Maki Cucumber",
+          "price": 44
+        },
+        {
+          "name": "Hoso Maki Salmon",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Tuna",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Eel",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Shrimp",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Shrimp Tempura",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Tamago",
+          "price": 44
+        },
+        {
+          "name": "Hoso Maki KYOTO",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Crab",
+          "price": 85
+        },
+        {
+          "name": "Hoso Maki Cheese Salmon",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Cheese Salmon Tempura",
+          "price": 131
+        },
+        {
+          "name": "Hoso Maki Cheese Shrimp Tempura",
+          "price": 131
+        }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "items": [
+        {
+          "name": "Noodles Vegetable",
+          "price": 57
+        },
+        {
+          "name": "Noodles Chicken",
+          "price": 91
+        },
+        {
+          "name": "Noodles Beef",
+          "price": 136
+        },
+        {
+          "name": "Noodles Shrimp",
+          "price": 205
+        }
+      ]
+    },
+    {
+      "name": "Dynamite Roll",
+      "items": [
+        {
+          "name": "Dynamite Crab Roll",
+          "price": 112
+        },
+        {
+          "name": "Dynamite Salmon Roll",
+          "price": 171
+        },
+        {
+          "name": "Dynamite Shrimp Tempura",
+          "price": 171
+        },
+        {
+          "name": "Dynamite Spicy Tuna",
+          "price": 171
+        },
+        {
+          "name": "Fresh Dynamite Crab Roll",
+          "price": 112
+        },
+        {
+          "name": "Fresh Dynamite Salmon",
+          "price": 171
+        },
+        {
+          "name": "Fresh Dynamite Shrimp Tempura",
+          "price": 171
+        },
+        {
+          "name": "Fresh Dynamite Spicy Tuna",
+          "price": 171
+        }
+      ]
+    },
+    {
+      "name": "Temaki Hand Roll",
+      "items": [
+        {
+          "name": "Temaki Tuna",
+          "price": 131
+        },
+        {
+          "name": "Temaki Shrimp",
+          "price": 131
+        },
+        {
+          "name": "Temaki Eel",
+          "price": 131
+        },
+        {
+          "name": "Temaki Salmon",
+          "price": 131
+        },
+        {
+          "name": "Temaki Shrimp Tempura",
+          "price": 131
+        }
+      ]
+    },
+    {
+      "name": "Sashimi",
+      "items": [
+        {
+          "name": "Sake (Salmon)",
+          "price": 273
+        },
+        {
+          "name": "Maguro (Tuna)",
+          "price": 273
+        },
+        {
+          "name": "Unagi (Eel)",
+          "price": 273
+        },
+        {
+          "name": "Tako (Octopus)",
+          "price": 228
+        },
+        {
+          "name": "Shiromi (Sea Bass)",
+          "price": 228
+        },
+        {
+          "name": "Ika (Squid)",
+          "price": 273
+        },
+        {
+          "name": "Ebi (Shrimp)",
+          "price": 228
+        },
+        {
+          "name": "New Style Salmon",
+          "price": 273
+        },
+        {
+          "name": "Tataki Salmon",
+          "price": 273
+        },
+        {
+          "name": "Tataki Tuna",
+          "price": 273
+        },
+        {
+          "name": "Fried Salamon Sashimi",
+          "price": 273
+        }
+      ]
+    },
+    {
+      "name": "Mono Maki",
+      "items": [
+        {
+          "name": "Mono Maki Salmon",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Tuna",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Shrimp Tempura",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Crab & Cheese",
+          "price": 85
+        },
+        {
+          "name": "Mono Maki Eel",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Salmon Tempura",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Tuna Tempura",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Shrimp",
+          "price": 130
+        },
+        {
+          "name": "Mono Maki Crab",
+          "price": 74
+        }
+      ]
+    },
+    {
+      "name": "Burrito Sushi",
+      "items": [
+        {
+          "name": "Burrito Crab",
+          "desc": "Crab, Cream Cheese, Avocado, Vegitables, Koktil Sauce or Spicy Sauce, Rice",
+          "price": 125
+        },
+        {
+          "name": "Burrito Salmon",
+          "desc": "Smoked Salmon, Cream Cheese, Avocado, Vegitables, Koktil Sauce or Spicy Sauce, Rice",
+          "price": 205
+        },
+        {
+          "name": "Burrito Shrimp Tempura",
+          "desc": "Shrimp Tempura, Cream Cheese, Avocado, Vegitables, Koktil Sauce or Spicy Sauce, Rice",
+          "price": 205
+        }
+      ]
+    },
+    {
+      "name": "Gunkan",
+      "items": [
+        {
+          "name": "Gunkan Caviar Red",
+          "price": 36
+        },
+        {
+          "name": "Gunkan Caviar Black",
+          "price": 36
+        },
+        {
+          "name": "Gunkan Caviar Tobico",
+          "price": 36
+        },
+        {
+          "name": "Gunkan Volcano Crab",
+          "price": 19
+        },
+        {
+          "name": "Gunkan Crab Mayo",
+          "price": 19
+        }
+      ]
+    },
+    {
+      "name": "Chirashi",
+      "items": [
+        {
+          "name": "Chirashi Eel",
+          "price": 364
+        },
+        {
+          "name": "Chirashi Tuna",
+          "price": 364
+        },
+        {
+          "name": "Chirashi Salmon",
+          "price": 364
+        },
+        {
+          "name": "Chirashi Shrimp",
+          "price": 364
+        }
+      ]
+    },
+    {
+      "name": "Hot Fried Roll",
+      "items": [
+        {
+          "name": "Fried Decoration Roll",
+          "desc": "Crab, Shrimp Tempura, Chesse, Panko, Caviar, Spicy May, Green Onion",
+          "price": 114
+        },
+        {
+          "name": "Fried Godzilla Roll",
+          "desc": "Crab, Cheese, Shrimp Tempura Panko, Spicy May",
+          "price": 74
+        },
+        {
+          "name": "Fried Triangle Roll",
+          "desc": "Crab, Shrimp Tempura, Chesse, Panko, Spicy May",
+          "price": 57
+        },
+        {
+          "name": "Fried Paper",
+          "desc": "Slamon, Crap, Cheese, Spring Roll Sweet Chille Sause",
+          "price": 149
+        },
+        {
+          "name": "Fried Spicy Panko Roll",
+          "desc": "Shrimp Tempura, Chesse, Cheddar Sauce",
+          "price": 125
+        },
+        {
+          "name": "Konafa Roll",
+          "desc": "Shrimp Tempura wrapped with Konafa & Teriyaki Sauce",
+          "price": 114
+        },
+        {
+          "name": "Fried Philadelphia Roll",
+          "desc": "Cheese, Cucumber, Avocado",
+          "price": 73
+        },
+        {
+          "name": "Spider Roll",
+          "desc": "Shrimp Tempura, Salmon Tempura with Teriyaki Sacue",
+          "price": 125
+        },
+        {
+          "name": "Fried Spicy Lemon",
+          "desc": "Salmon, Shrimp Tempura, Cheese Yozo Sauce & Spicy Mayo",
+          "price": 136
+        },
+        {
+          "name": "Fried Shrimp Cheddar Roll",
+          "desc": "Salmon or Tuna or Shrimp Tempura, Cheddar with Teriyaki",
+          "price": 125
+        },
+        {
+          "name": "Fried Cheese Crab",
+          "desc": "Crab, Cream Cheese, Teriyaki Sauce",
+          "price": 82
+        },
+        {
+          "name": "Fried Sun Rises Roll",
+          "desc": "Salmon, Shrimp, Cheese, Panko with Siratcha, Sunrise Sauce",
+          "price": 142
+        },
+        {
+          "name": "Fried Volcano Roll",
+          "desc": "Shrimp, Avocado wrapped with Cheddar, Smoked Salmon, Panko Spicy Mayo",
+          "price": 142
+        },
+        {
+          "name": "Fried Falcon",
+          "desc": "Shrimp Tempura, Crab, Cream Cheese, Smoked Salamon, Cheddar, Panko, Spicy Mayo",
+          "price": 142
+        },
+        {
+          "name": "Fried Ura Shrimp Roll",
+          "desc": "Salmon or Tuna or Shrimp tempura Cheese & Teriyaki Sauce",
+          "price": 125
+        },
+        {
+          "name": "Fried Crunch Roll",
+          "desc": "Shrimp Tempura, Crab Tempura, Tuna Tempura, Salmon Tempura, Teriyaki Sauce",
+          "price": 142
+        },
+        {
+          "name": "Fried Crab Sriracha Roll",
+          "desc": "Crab, Sriracha, Teriyaki Sauce",
+          "price": 82
+        }
+      ]
+    },
+    {
+      "name": "Nigiri Sushi",
+      "items": [
+        {
+          "name": "Sake Sushi (Salmon)",
+          "price": 34
+        },
+        {
+          "name": "Maguro Sushi (Tuna)",
+          "price": 34
+        },
+        {
+          "name": "Unagi Sushi (Eel)",
+          "price": 34
+        },
+        {
+          "name": "Ebi Sushi (Shrimp)",
+          "price": 31
+        },
+        {
+          "name": "Tako Sushi (Octopus)",
+          "price": 25
+        },
+        {
+          "name": "Shiromi Sushi (Sea Bass)",
+          "price": 31
+        },
+        {
+          "name": "Ika Sushi (Squid)",
+          "price": 31
+        },
+        {
+          "name": "Tamago Sushi (Egg Omlet)",
+          "price": 17
+        },
+        {
+          "name": "Kani Sushi (Crab)",
+          "price": 18
+        },
+        {
+          "name": "Salmon Sushi (Cheddar)",
+          "price": 34
+        },
+        {
+          "name": "Spicy Salmon / Tuna",
+          "price": 34
+        }
+      ]
+    },
+    {
+      "name": "Fried Nigiri Sushi",
+      "items": [
+        {
+          "name": "Salmon Tempura Sushi",
+          "price": 34
+        },
+        {
+          "name": "Shrimp Tempura Sushi",
+          "price": 34
+        },
+        {
+          "name": "Tuna Tempura Sushi",
+          "price": 34
+        },
+        {
+          "name": "Fried Crispy Rice Salmon",
+          "price": 34
+        },
+        {
+          "name": "Fried Crispy Rice Tuna",
+          "price": 34
+        },
+        {
+          "name": "Fried Crispy Rice Shrimp",
+          "price": 34
+        },
+        {
+          "name": "Shrimp Konafa Sushi",
+          "price": 34
+        },
+        {
+          "name": "Fried Panko Tuna",
+          "price": 34
+        },
+        {
+          "name": "Fried Panko Shrimp",
+          "price": 34
+        }
+      ]
+    },
+    {
+      "name": "Sushi Rolls",
+      "items": [
+        {
+          "name": "Mango Roll",
+          "desc": "Crab, Avocado, Cucumber, Shrimp, Smoked Salmon, Spicy Mango Sauce, Black Sesame",
+          "price": 114
+        },
+        {
+          "name": "Dragon Roll",
+          "desc": "Crab Mayo, Avocado, Cucumber wrapped with Eel, Avocado Teriyaki & Sesame",
+          "price": 114
+        },
+        {
+          "name": "Avocado Roll",
+          "desc": "Shrimp Tempura, Avocado, Cucumber wrapped with Avocado, Teriyaki & Sesame",
+          "price": 91
+        },
+        {
+          "name": "Mega Roll",
+          "desc": "Shrimp Tempura, Cucumber, Avocado, Eel, Cheese, Crispy Rice & Teriyaki",
+          "price": 102
+        },
+        {
+          "name": "Cheese Rocket Roll",
+          "desc": "Shrimp Tempura, Cream Cheese, Avocado, Smoked Salmon, Rocca",
+          "price": 114
+        },
+        {
+          "name": "Creamy Cheddar Roll",
+          "desc": "Crab, Shrimp Tempura, Cucumber, Avocado, Cheddar Sauce, Sesame",
+          "price": 68
+        },
+        {
+          "name": "New style Philadelphia roll",
+          "desc": "shrimp tempura, smoked salmon, cheese, avocado, cucumber sesame teriyaki",
+          "price": 91
+        },
+        {
+          "name": "Ura California Roll",
+          "desc": "Crab, Avocado, Cucumber, Sesame Seeds",
+          "price": 52
+        },
+        {
+          "name": "Rainbow Roll",
+          "desc": "Crab, Avocado, Cucumber wrapped with Salmon",
+          "price": 114
+        },
+        {
+          "name": "Gumball Roll",
+          "desc": "Crab, Cream Cheese, Avocado, Cucumber, Sesame Seeds",
+          "price": 62
+        },
+        {
+          "name": "KYOTO Roll",
+          "desc": "Shrimp Tempura, Cream Cheese Avocado, Cucumber wrapped with Smoked Salmon, Teriyaki Sauce",
+          "price": 91
+        },
+        {
+          "name": "California Roll",
+          "desc": "Crab, Salamon, Avocado, Cucmber.",
+          "price": 79
+        },
+        {
+          "name": "USA Roll",
+          "desc": "Crab Mayo, Avocado, Cucumber, Sesame Mix",
+          "price": 52
+        },
+        {
+          "name": "Crispy Shrimp Roll",
+          "desc": "Shrimp Tempura or Tuna, Avocado Cucumber, Crispy Rice & Teriyaki",
+          "price": 74
+        },
+        {
+          "name": "Ura California Caviar",
+          "desc": "Crab, Avocado, Cucumber, Choose your Caviar, Red or Black or Tobico",
+          "price": 79
+        },
+        {
+          "name": "Volcano Roll",
+          "desc": "Caviar, Rocket, Salmon, Chees, Avocado Cucumber",
+          "price": 114
+        },
+        {
+          "name": "Kakyagi Roll",
+          "desc": "Chees, Vegi Tempura, Cucumber, Avocado, Halapeno",
+          "price": 45
+        },
+        {
+          "name": "Halapeno Roll",
+          "desc": "Smoked Salmon, Shrimp, Avocado Cucumber wrapped with Smoked Salmon, Jalapeno Sauce & Halapeno",
+          "price": 136
+        },
+        {
+          "name": "Green Roll",
+          "desc": "Eel, Shrimp Tempura, Lettuce, Cucumber, Teriaky, Sesame",
+          "price": 91
+        },
+        {
+          "name": "New Style Rainbow Roll",
+          "desc": "Crab, Avocado, Cucumber wrapped with Selection Fish",
+          "price": 114
+        },
+        {
+          "name": "Spicy Tuna Roll",
+          "desc": "Tuna with Spicy Mayo, Black Sesame",
+          "price": 91
+        },
+        {
+          "name": "Creamy Shrimp Roll",
+          "desc": "Crab, Shrimp Tempura, Cucumber, Avocado, Teriaky, Cheese, Sesame, Spicy Mayo.",
+          "price": 91
+        },
+        {
+          "name": "Spicy Salmon Roll",
+          "desc": "Salmon with Spicy Mayo, Black Sesame",
+          "price": 91
+        },
+        {
+          "name": "Cocktel Roll",
+          "desc": "Shrimp Tempura, Avocado, Cucumber, Sesame Mix, Crab",
+          "price": 91
+        },
+        {
+          "name": "Strong Roll",
+          "desc": "Crab, Salmon, Caviar, Sesame, Spaicy May",
+          "price": 91
+        },
+        {
+          "name": "Pesto Roll",
+          "desc": "Shrimp Tempura, Avocado, Cheese, Cucumber wrapped with Smoked Salmon, Pesto Sauce & Capri",
+          "price": 125
+        },
+        {
+          "name": "Super Roll",
+          "desc": "Shrimp Tempura, Avocado, Cucumber, Salmon, Crab Mayo",
+          "price": 102
+        },
+        {
+          "name": "Pineapple Roll",
+          "desc": "Shrimp Tempura, Avocado, Cucumber, Pineapple wrapped with Salmon, Teriyaki",
+          "price": 114
+        },
+        {
+          "name": "Crunchy Roll",
+          "desc": "Shrimp Tempura, Cucumber Lettuce, Tempura Flix, Red Caviar & Spicy Mayo, Teriyaki Sauce",
+          "price": 91
+        },
+        {
+          "name": "Veggie Roll",
+          "desc": "Carrot, Avocado, Cucumber",
+          "price": 37
+        },
+        {
+          "name": "Philadelphia Roll",
+          "desc": "Salmon, Avocado, Cream Cheese, Cucumber wrapped with Smoked Salmon & Teriyaki Sauce",
+          "price": 114
+        }
+      ]
+    },
+    {
+      "name": "POKE SUSHI",
+      "items": [
+        {
+          "name": "Poke Salmon",
+          "desc": "Salmon, Avocado, Pineapple, Corn, Carrot, Cucumber, Sesame",
+          "price": 296
+        },
+        {
+          "name": "Poke Shrimp",
+          "desc": "Shrimp, Avocado, Pineapple, Corn, Carrot, Cucumber, Sesame",
+          "price": 285
+        },
+        {
+          "name": "Poke Mix",
+          "desc": "Salmon, Shrimp, Crab, Avocado, Pineapple, Corn, Carrot, Cucumber, Sesame",
+          "price": 285
+        }
+      ]
+    },
+    {
+      "name": "KYOTO ROLLS",
+      "items": [
+        {
+          "name": "Pink Lady Roll",
+          "desc": "Shrimp Tempura Avocado, Cucumber wrapped with Crab Mayo, Sesame Sauce",
+          "price": 91
+        },
+        {
+          "name": "Mafia Roll",
+          "desc": "Salmon Tempura, Shrimp Tempura, Avocado, Cucumber, Avocado Cheese, Sesame, Teriyaki Sauce",
+          "price": 91
+        },
+        {
+          "name": "Shrimp Roll",
+          "desc": "Shrimp Tempura, Avocado, Cucumber, Panko, Teriyaki, Cheese",
+          "price": 91
+        },
+        {
+          "name": "Caterpillar Roll",
+          "desc": "Eel, Cucumber, Avocado, Sesame, Teriyaki Sauce",
+          "price": 125
+        },
+        {
+          "name": "Salmon Roll",
+          "desc": "Salmon Tempura, Avocado, Cucumber, Panko, Cheese",
+          "price": 91
+        },
+        {
+          "name": "KYOTO Spicy",
+          "desc": "Crab, Shrimp, Avocado, Cucumber, Crab Mayo, Seratsha",
+          "price": 91
+        },
+        {
+          "name": "New Crispy Roll",
+          "desc": "Shrimp Tempura, Cheese, Avocado, Cucumber, Teriyaki Sauce, Crispy Rice",
+          "price": 91
+        },
+        {
+          "name": "Chedder Roll",
+          "desc": "Crab, Shrimp Tempura, Avocado, Cucumber wrapped with Cheddar Cheese & Teriyaki Sauce",
+          "price": 91
+        },
+        {
+          "name": "Torshed Roll",
+          "desc": "Shrimp Tempura, Cheese, Avocado, Cucumber, Smoked Salmon, Cheddar, Jalapeno, Jalapeno",
+          "price": 125
+        },
+        {
+          "name": "Double Crunchy Roll",
+          "desc": "Shrimp Tempura, Cream Cheese, Corn Flix, Teriyaki Sauce",
+          "price": 91
+        }
+      ]
+    },
+    {
+      "name": "APPETIZERS",
+      "items": [
+        {
+          "name": "Veggie Spring Roll",
+          "price": 51
+        },
+        {
+          "name": "Chicken Spring Roll",
+          "price": 63
+        },
+        {
+          "name": "Shrimp Spring Roll",
+          "price": 114
+        },
+        {
+          "name": "Veggie Tempura",
+          "price": 59
+        },
+        {
+          "name": "Shrimp Konafa",
+          "price": 114
+        },
+        {
+          "name": "Ika Squid Karagi",
+          "price": 148
+        },
+        {
+          "name": "Chicken Karagi",
+          "price": 71
+        },
+        {
+          "name": "Yaki Tori Chicken",
+          "price": 71
+        }
+      ]
+    },
+    {
+      "name": "MAIN COURSE",
+      "items": [
+        {
+          "name": "Mix Tempura Vegetable",
+          "price": 74
+        },
+        {
+          "name": "Mix Tempura Vegetable & Fish",
+          "price": 171
+        },
+        {
+          "name": "Salmon Shoyaki",
+          "price": 399
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "price": 136
+        },
+        {
+          "name": "Teriyaki Beef",
+          "price": 223
+        },
+        {
+          "name": "Teriyaki Salmon",
+          "price": 399
+        },
+        {
+          "name": "Teriyaki Tuna",
+          "price": 399
+        },
+        {
+          "name": "Shrimp Tempura",
+          "price": 228
+        }
+      ]
+    },
+    {
+      "name": "SOUPS",
+      "items": [
+        {
+          "name": "Miso Soup",
+          "price": 59
+        },
+        {
+          "name": "Sea Food Soup",
+          "price": 125
+        },
+        {
+          "name": "Noodles Soup with Beef",
+          "price": 83
+        },
+        {
+          "name": "Tom Yum Soup",
+          "price": 136
+        },
+        {
+          "name": "Clear Shrimp Soup",
+          "price": 136
+        }
+      ]
+    },
+    {
+      "name": "SALADS",
+      "items": [
+        {
+          "name": "Veggie Salad",
+          "price": 52
+        },
+        {
+          "name": "Spicy & Crab Salad",
+          "price": 68
+        },
+        {
+          "name": "Sea Food Salad",
+          "price": 96
+        },
+        {
+          "name": "Shrimp & Crab Salad",
+          "price": 136
+        },
+        {
+          "name": "Salmon & Octpus Salad",
+          "price": 262
+        }
+      ]
+    },
+    {
+      "name": "FRIED RICE",
+      "items": [
+        {
+          "name": "Steamed Rice",
+          "price": 27
+        },
+        {
+          "name": "Vegetable Fried Rice",
+          "price": 37
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 67
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "price": 125
+        },
+        {
+          "name": "Beef Fried Rice",
+          "price": 102
+        }
+      ]
+    }
+  ]
+}

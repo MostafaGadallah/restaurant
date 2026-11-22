@@ -1,0 +1,289 @@
+{
+  "restaurant": "جمال شلقامى الكبابجى",
+  "slug": "shallqamy_menu",
+  "source": "https://aklmsr.com/restaurants/giza/place-qo9kfwvhbo",
+  "source_updated": "١٥ أغسطس ٢٠٢٦",
+  "address": "المحطة",
+  "phone": "01000734004",
+  "phones": [
+    "01000734004"
+  ],
+  "sections": [
+    {
+      "name": "مشويات",
+      "items": [
+        {
+          "name": "كباب ضاني",
+          "price": 1040
+        },
+        {
+          "name": "ريش ضاني",
+          "price": 1120
+        },
+        {
+          "name": "فيليه ضاني",
+          "price": 1080
+        },
+        {
+          "name": "مشكل كباب ضاني",
+          "price": 1150
+        },
+        {
+          "name": "كفتة ضاني",
+          "price": 680
+        },
+        {
+          "name": "طرب ضاني",
+          "price": 780
+        },
+        {
+          "name": "موزة ضاني",
+          "desc": "LAMB SHANK",
+          "price": 450
+        },
+        {
+          "name": "نيفة",
+          "desc": "NIFA",
+          "price": 1020
+        },
+        {
+          "name": "خصي / كلى ضاني / كبدة ضاني",
+          "desc": "MOUNTAIN OYSTER / KIDNEYS LAMB / LIVER LAMB",
+          "price": 760
+        },
+        {
+          "name": "حمام محشي",
+          "desc": "STUFFED PIGEONS",
+          "price": 160
+        },
+        {
+          "name": "فراخ مشوية",
+          "desc": "GRILLED CHICKEN",
+          "price": 250
+        },
+        {
+          "name": "سجق ضاني",
+          "desc": "LAMB SAUSAGE",
+          "price": 780
+        },
+        {
+          "name": "قطعيات مميزة",
+          "desc": "PRIME CUTS",
+          "price": 1080
+        },
+        {
+          "name": "كفتة وريش",
+          "desc": "KOFTA AND RIBS",
+          "price": 860
+        },
+        {
+          "name": "حمام مشوي",
+          "desc": "GRILLED PIGEON",
+          "price": 155
+        }
+      ]
+    },
+    {
+      "name": "مقبلات وسلطات",
+      "items": [
+        {
+          "name": "Mixed Stuffed Vegetables",
+          "price": 60
+        },
+        {
+          "name": "Orzo Soup",
+          "price": 25
+        },
+        {
+          "name": "Pigeon Soup",
+          "price": 10
+        },
+        {
+          "name": "Pickled Cucumber",
+          "price": 10
+        },
+        {
+          "name": "Baba Ghanoug",
+          "price": 20
+        },
+        {
+          "name": "Green Salad",
+          "price": 10
+        },
+        {
+          "name": "Grape Leaves",
+          "price": 55
+        },
+        {
+          "name": "Sholqamy Salad",
+          "price": 10
+        },
+        {
+          "name": "Eggplant",
+          "price": 20
+        },
+        {
+          "name": "Mix Soup",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "وجبات تيك أواي",
+      "items": [
+        {
+          "name": "ربع كفتة ضاني",
+          "desc": "1/4 KOFTA LAMB",
+          "price": 225
+        },
+        {
+          "name": "ربع مشكل مشويات",
+          "desc": "1/4 MIXED GRILLED MEAT",
+          "price": 265
+        },
+        {
+          "name": "نصف دجاجة + أرز بسمتي",
+          "desc": "1/2 CHICKEN + BASMATI RICE",
+          "price": 170
+        },
+        {
+          "name": "ربع دجاجة + ثمن كفتة ضاني + أرز بسمتي",
+          "desc": "1/4 CHICKEN + 1/8 KOFTA LAMB + BASMATI RICE",
+          "price": 195
+        }
+      ]
+    },
+    {
+      "name": "SIDE DISHES & TAJINS",
+      "items": [
+        {
+          "name": "MOLOKHEYA",
+          "price": 50
+        },
+        {
+          "name": "PLAIN WHITE RICE",
+          "price": 45
+        },
+        {
+          "name": "MIXED RICE WITH LIVER",
+          "price": 60
+        },
+        {
+          "name": "BASMATI RICE WITH NUTS",
+          "price": 65
+        },
+        {
+          "name": "MIXED BASMATI RICE WITH LIVER",
+          "price": 65
+        },
+        {
+          "name": "TAJIN PIGEON",
+          "price": 210
+        },
+        {
+          "name": "PLAIN BASMATI RICE",
+          "price": 55
+        },
+        {
+          "name": "MEAT CASSEROLE WITH ONIONS",
+          "price": 240
+        },
+        {
+          "name": "OKRA CASSEROLE",
+          "price": 120
+        },
+        {
+          "name": "GRAPE LEAVES WITH MEAT",
+          "price": 270
+        },
+        {
+          "name": "TAJINE POTATOES & MEAT",
+          "price": 270
+        },
+        {
+          "name": "TAJINE ORZO MEAT",
+          "price": 270
+        },
+        {
+          "name": "GRITS WITH MEAT CASSEROLE",
+          "price": 270
+        },
+        {
+          "name": "TAJINE FATTAH",
+          "price": 60
+        },
+        {
+          "name": "GRITS CASSEROLE",
+          "price": 140
+        },
+        {
+          "name": "TAJIN ONIONS & MEAT",
+          "price": 220
+        },
+        {
+          "name": "TAJIN OKRA",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "name": "BEVERAGES",
+      "items": [
+        {
+          "name": "PEPSI / SPRITE",
+          "price": 25
+        },
+        {
+          "name": "FANTA / 7UP",
+          "price": 25
+        },
+        {
+          "name": "BIRELL",
+          "price": 25
+        },
+        {
+          "name": "MINERAL WATER",
+          "price": 10
+        },
+        {
+          "name": "TEA",
+          "price": 15
+        },
+        {
+          "name": "COFFEE",
+          "price": 35
+        },
+        {
+          "name": "LEMON JUICE, MINT",
+          "price": 40
+        },
+        {
+          "name": "ORANGE JUICE",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "معلومات التواصل",
+      "items": [
+        {
+          "name": "الموقع الإلكتروني",
+          "desc": "sholqamy.com/menu"
+        },
+        {
+          "name": "فرع الجيزة",
+          "desc": "Al Mahatah, Giza, Giza Governorate"
+        },
+        {
+          "name": "فرع أكتوبر",
+          "desc": "Waslet Dahshur Rd, First Al Sheikh Zayed, Giza Governorate"
+        },
+        {
+          "name": "رقم الهاتف",
+          "desc": "01000734004"
+        }
+      ]
+    }
+  ],
+  "whatsapp": "01000734004"
+}

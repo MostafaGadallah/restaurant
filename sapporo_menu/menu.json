@@ -1,0 +1,310 @@
+{
+  "restaurant": "مطعم سابورو ياباني",
+  "slug": "sapporo_menu",
+  "source": "https://aklmsr.com/restaurants/giza/place-xi3bext0iy",
+  "source_updated": "١٥ أغسطس ٢٠٢٦",
+  "address": "الدقي، قسم الدقي، محافظة الجيزة 3750412",
+  "phone": "01022216883",
+  "phones": [
+    "01022216883"
+  ],
+  "sections": [
+    {
+      "name": "APPETIZERS",
+      "items": [
+        {
+          "name": "Edamame",
+          "desc": "Steamed soybeans with sea salt",
+          "price": 180
+        },
+        {
+          "name": "Goma Wakame",
+          "desc": "Seaweed salad with sesame dressing",
+          "price": 220
+        },
+        {
+          "name": "Agedashi Tofu",
+          "desc": "Fried tofu with dashi sauce, grated radish",
+          "price": 250
+        },
+        {
+          "name": "Shrimp Tempura",
+          "desc": "Crispy shrimp and vegetables",
+          "price": 450
+        },
+        {
+          "name": "Chicken Karaage",
+          "desc": "Japanese style fried chicken",
+          "price": 320
+        },
+        {
+          "name": "Yakitori",
+          "desc": "Grilled chicken skewers with tare sauce",
+          "price": 320
+        },
+        {
+          "name": "Beef Tataki",
+          "desc": "Seared beef with ponzu sauce",
+          "price": 450
+        },
+        {
+          "name": "Spicy Tuna Crispy Rice",
+          "desc": "Crispy rice, spicy tuna, jalapeño",
+          "price": 480
+        }
+      ]
+    },
+    {
+      "name": "SOUP & SALAD",
+      "items": [
+        {
+          "name": "Miso Soup",
+          "desc": "Traditional miso soup with tofu, seaweed and scallions",
+          "price": 120
+        },
+        {
+          "name": "Clear Soup",
+          "desc": "Clear broth with mushrooms, tofu and scallions",
+          "price": 120
+        },
+        {
+          "name": "Sapporo Salad",
+          "desc": "Mixed greens, cucumber, carrot, daikon, cherry tomato",
+          "price": 220
+        },
+        {
+          "name": "Avocado Salad",
+          "desc": "Avocado, mixed greens, sesame dressing",
+          "price": 280
+        },
+        {
+          "name": "Kani Salad",
+          "desc": "Crab sticks, cucumber, tobiko, spicy mayo",
+          "price": 320
+        }
+      ]
+    },
+    {
+      "name": "SUSHI & SASHIMI",
+      "items": [
+        {
+          "name": "SASHIMI (5 Pieces)"
+        },
+        {
+          "name": "SUSHI (2 Pieces)"
+        }
+      ]
+    },
+    {
+      "name": "SUSHI ROLLS",
+      "items": [
+        {
+          "name": "California Roll",
+          "desc": "Crab, avocado, cucumber, tobiko",
+          "price": 380
+        },
+        {
+          "name": "Spicy Tuna Roll",
+          "desc": "Spicy tuna, cucumber, scallion",
+          "price": 420
+        },
+        {
+          "name": "Salmon Avocado Roll",
+          "desc": "Salmon, avocado",
+          "price": 420
+        },
+        {
+          "name": "Dragon Roll",
+          "desc": "Eel, cucumber, avocado, topped with eel sauce",
+          "price": 520
+        },
+        {
+          "name": "Rainbow Roll",
+          "desc": "Crab, cucumber, avocado, topped with mixed fish",
+          "price": 520
+        },
+        {
+          "name": "Crispy Shrimp Roll",
+          "desc": "Shrimp tempura, avocado, cucumber, spicy mayo",
+          "price": 480
+        },
+        {
+          "name": "Sapporo Special Roll",
+          "desc": "Spicy tuna, shrimp tempura, avocado, topped with seared salmon",
+          "price": 480
+        }
+      ]
+    },
+    {
+      "name": "HOT DISHES",
+      "items": [
+        {
+          "name": "Teriyaki Chicken",
+          "desc": "Grilled chicken with teriyaki sauce",
+          "price": 450
+        },
+        {
+          "name": "Teriyaki Salmon",
+          "desc": "Grilled salmon with teriyaki sauce",
+          "price": 550
+        },
+        {
+          "name": "Beef Tenderloin",
+          "desc": "Grilled beef tenderloin with garlic butter sauce",
+          "price": 650
+        },
+        {
+          "name": "Seafood Teppanyaki",
+          "desc": "Shrimp, scallops, fish, vegetables",
+          "price": 750
+        },
+        {
+          "name": "Yakisoba",
+          "desc": "Stir fried noodles with chicken and vegetables",
+          "price": 420
+        },
+        {
+          "name": "Yaki Udon",
+          "desc": "Stir fried udon noodles with chicken and vegetables",
+          "price": 420
+        }
+      ]
+    },
+    {
+      "name": "DONBURI (Rice Bowls)",
+      "items": [
+        {
+          "name": "Chicken Teriyaki Don",
+          "desc": "Chicken teriyaki, vegetables, rice",
+          "price": 420
+        },
+        {
+          "name": "Beef Teriyaki Don",
+          "desc": "Beef teriyaki, vegetables, rice",
+          "price": 420
+        },
+        {
+          "name": "Unagi Don",
+          "desc": "Grilled eel, vegetables, rice",
+          "price": 420
+        },
+        {
+          "name": "Katsudon",
+          "desc": "Chicken katsu, egg, onions, rice",
+          "price": 420
+        }
+      ]
+    },
+    {
+      "name": "BENTO BOX (Served with Miso Soup, Salad & Rice)",
+      "items": [
+        {
+          "name": "Chicken Teriyaki Bento",
+          "price": 520
+        },
+        {
+          "name": "Salmon Teriyaki Bento",
+          "price": 620
+        },
+        {
+          "name": "Beef Teriyaki Bento",
+          "price": 650
+        },
+        {
+          "name": "Tempura Bento",
+          "price": 550
+        },
+        {
+          "name": "Sashimi Bento",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "name": "DESSERTS",
+      "items": [
+        {
+          "name": "Mochi Ice Cream (2 Pcs)",
+          "desc": "Green tea / Mango / Vanilla",
+          "price": 180
+        },
+        {
+          "name": "Matcha Tiramisu",
+          "price": 280
+        },
+        {
+          "name": "Yuzu Cheesecake",
+          "price": 280
+        },
+        {
+          "name": "Chocolate Fondant",
+          "desc": "With vanilla ice cream",
+          "price": 280
+        },
+        {
+          "name": "Seasonal Fruits",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "name": "BEVERAGES",
+      "items": [
+        {
+          "name": "Green Tea (Hot / Cold)",
+          "price": 80
+        },
+        {
+          "name": "Jasmine Tea (Hot / Cold)",
+          "price": 80
+        },
+        {
+          "name": "Soft Drinks",
+          "price": 80
+        },
+        {
+          "name": "Still Water (Small)",
+          "price": 60
+        },
+        {
+          "name": "Still Water (Large)",
+          "price": 100
+        },
+        {
+          "name": "Sparkling Water (Small)",
+          "price": 70
+        },
+        {
+          "name": "Sparkling Water (Large)",
+          "price": 120
+        },
+        {
+          "name": "Fresh Juice",
+          "desc": "Orange / Mango / Lemon",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "name": "CHEF'S SPECIAL",
+      "items": [
+        {
+          "name": "Sashimi Platter",
+          "desc": "Assorted sashimi (15 pcs)",
+          "price": 1
+        },
+        {
+          "name": "Sushi Platter",
+          "desc": "Assorted sushi (12 pcs)",
+          "price": 1
+        },
+        {
+          "name": "Sapporo Boat",
+          "desc": "Sashimi, sushi, rolls (for 2)",
+          "price": 2
+        }
+      ]
+    }
+  ],
+  "whatsapp": "01022216883"
+}

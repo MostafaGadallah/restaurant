@@ -1,0 +1,569 @@
+{
+  "restaurant": "تشانغ تشينغ ريستورانت",
+  "slug": "chang_cheng_menu",
+  "source": "https://aklmsr.com/restaurants/giza/chang-cheng-restaurant-fvbcewqjzq",
+  "source_updated": "٢٤ أكتوبر ٢٠٢٦",
+  "address": "نزلة السمان، شارع أبو الهول السياحي، قسم الهرم، محافظة الجيزة 3514542",
+  "phone": "01065193599",
+  "phones": [
+    "01065193599"
+  ],
+  "sections": [
+    {
+      "name": "Vegetables",
+      "items": [
+        {
+          "name": "Spanich With Garlic",
+          "price": 120
+        },
+        {
+          "name": "Chinese Cabbagge",
+          "price": 120
+        },
+        {
+          "name": "Four Seasons beans fried",
+          "price": 120
+        },
+        {
+          "name": "Chinese Style Eggplant",
+          "price": 120
+        },
+        {
+          "name": "Chinese Lettuce",
+          "price": 120
+        },
+        {
+          "name": "Shredded potatoes",
+          "price": 120
+        },
+        {
+          "name": "Chinese Arugula",
+          "price": 120
+        },
+        {
+          "name": "Quick Fried Zucchini",
+          "price": 120
+        },
+        {
+          "name": "Chinese Zucchini",
+          "price": 120
+        },
+        {
+          "name": "Spicy Cucumber Salad",
+          "price": 120
+        },
+        {
+          "name": "Sour Cucumber Salad",
+          "price": 120
+        },
+        {
+          "name": "Chinese Cauliflower",
+          "price": 120
+        },
+        {
+          "name": "Chinese Broccoli",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "name": "Beef Dishes",
+      "items": [
+        {
+          "name": "Spicy Herbs Beef Slices",
+          "price": 300
+        },
+        {
+          "name": "Beef fried with pepper",
+          "price": 300
+        },
+        {
+          "name": "Beef fried with onion",
+          "price": 300
+        },
+        {
+          "name": "stew Beef Potatoes",
+          "price": 300
+        },
+        {
+          "name": "Pan Hot Beef Dish",
+          "price": 300
+        },
+        {
+          "name": "Beef Watercress",
+          "price": 300
+        },
+        {
+          "name": "Beef Fried Grean Onion",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "name": "Chicken Dishes",
+      "items": [
+        {
+          "name": "Chicken Wings With Sauce",
+          "price": 250
+        },
+        {
+          "name": "Crispy Chicken Pices",
+          "price": 250
+        },
+        {
+          "name": "Chicken Kung Pao",
+          "price": 250
+        },
+        {
+          "name": "Chicken With Onion",
+          "price": 250
+        },
+        {
+          "name": "Chicken Liver",
+          "price": 200
+        },
+        {
+          "name": "Chicken With Pepper",
+          "price": 250
+        },
+        {
+          "name": "Chicken Sweet&Sour",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "name": "Egg Dishes",
+      "items": [
+        {
+          "name": "Chinese Egg Omlett",
+          "price": 120
+        },
+        {
+          "name": "Chinese Egg Tomato",
+          "price": 120
+        },
+        {
+          "name": "Chinese Egg Onion",
+          "price": 120
+        },
+        {
+          "name": "Chinese Egg Pepper",
+          "price": 120
+        },
+        {
+          "name": "Chinese Egg Pepper & Onion",
+          "price": 120
+        },
+        {
+          "name": "Beef Watercress",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "name": "Soups",
+      "items": [
+        {
+          "name": "Egg & Tomato Soup",
+          "price": 50
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "price": 50
+        },
+        {
+          "name": "Vegtables Noodles Soup",
+          "price": 120
+        },
+        {
+          "name": "Dumppling Soup",
+          "price": 50
+        },
+        {
+          "name": "Fresh Beef Soup",
+          "price": 60
+        },
+        {
+          "name": "Chicken With Herbs Soup",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "name": "Seafood",
+      "items": [
+        {
+          "name": "Chinese Steam Shrimp",
+          "price": 300
+        },
+        {
+          "name": "Fish Chinese Style Sauce",
+          "price": 250
+        },
+        {
+          "name": "Sweet&Sour Fish Cubes",
+          "price": 250
+        },
+        {
+          "name": "Chinese Fried Shrimp",
+          "price": 300
+        },
+        {
+          "name": "Oil Fried Squed",
+          "price": 280
+        },
+        {
+          "name": "Chinese Herbs Fried Shrimp",
+          "price": 300
+        },
+        {
+          "name": "Fish Fillet With Lemon",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "name": "Toufu",
+      "items": [
+        {
+          "name": "Chinese Toufu",
+          "price": 250
+        },
+        {
+          "name": "Oil Fried Toufu Cubes",
+          "price": 250
+        },
+        {
+          "name": "Hot Spicy Toufu",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "name": "Appetizers (6 PCS)",
+      "items": [
+        {
+          "name": "Chinese Spring Rolls",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "name": "Dumppling (6 PCS)",
+      "items": [
+        {
+          "name": "Vegetables Dumppling",
+          "price": 120
+        },
+        {
+          "name": "Fresh Beef Dumppling",
+          "price": 150
+        },
+        {
+          "name": "Shrimp Dumppling",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "name": "مشروبات ساخنة",
+      "items": [
+        {
+          "name": "شاي صيني",
+          "price": 60
+        },
+        {
+          "name": "كركديه",
+          "price": 60
+        },
+        {
+          "name": "نسكافيه",
+          "price": 60
+        },
+        {
+          "name": "قهوة",
+          "price": 60
+        },
+        {
+          "name": "شاي أحمر",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "مشروبات باردة",
+      "items": [
+        {
+          "name": "كانز (كولا - بيبسي - فانتا)",
+          "price": 75
+        },
+        {
+          "name": "بيريل",
+          "price": 100
+        },
+        {
+          "name": "ريد بول",
+          "price": 100
+        },
+        {
+          "name": "عصير فريش (مانجو - ليمون - فراولة)",
+          "price": 100
+        },
+        {
+          "name": "كولا - بيبسي - فانتا (صغير)",
+          "price": 40
+        },
+        {
+          "name": "مياه",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "Nigiri",
+      "items": [
+        {
+          "name": "Salmon",
+          "price": 30
+        },
+        {
+          "name": "Tuna",
+          "price": 30
+        },
+        {
+          "name": "Octopus",
+          "price": 29
+        },
+        {
+          "name": "Crab",
+          "price": 20
+        },
+        {
+          "name": "Eel",
+          "price": 30
+        },
+        {
+          "name": "Shrimp",
+          "price": 26
+        },
+        {
+          "name": "Tempura Fried Shrimp",
+          "price": 28
+        },
+        {
+          "name": "Salmon Avocado",
+          "price": 30
+        },
+        {
+          "name": "Salmon Tataki",
+          "price": 30
+        },
+        {
+          "name": "Tuna Tataki",
+          "price": 32
+        },
+        {
+          "name": "Salmon Cheddar",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "Ura Maki",
+      "items": [
+        {
+          "name": "Salmon",
+          "price": 99
+        },
+        {
+          "name": "Tuna",
+          "price": 105
+        },
+        {
+          "name": "Shrimp Tempura",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "name": "Hoso Maki",
+      "items": [
+        {
+          "name": "Salmon",
+          "price": 95
+        },
+        {
+          "name": "Tuna",
+          "price": 99
+        },
+        {
+          "name": "Crab",
+          "price": 65
+        },
+        {
+          "name": "Shrimp",
+          "price": 85
+        },
+        {
+          "name": "Shrimp Tempura",
+          "price": 90
+        },
+        {
+          "name": "Avocado",
+          "price": 49
+        },
+        {
+          "name": "Caviar",
+          "price": 145
+        },
+        {
+          "name": "Eel",
+          "price": 99
+        }
+      ]
+    },
+    {
+      "name": "Dynamite (5 PCS)",
+      "items": [
+        {
+          "name": "Salmon",
+          "price": 150
+        },
+        {
+          "name": "Tuna",
+          "price": 150
+        },
+        {
+          "name": "Shrimp Tempura",
+          "price": 150
+        },
+        {
+          "name": "Shrimp Boiled",
+          "price": 150
+        },
+        {
+          "name": "Crab",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "name": "BERMUDA",
+      "items": [
+        {
+          "name": "SMOKED BERMUDA",
+          "desc": "shrimp tempura - avocado topped with smoked salmon and creamy cheese and teriyaki sauce",
+          "price": 160
+        },
+        {
+          "name": "CRISPY BERMUDA",
+          "desc": "shrimp tempura - avocado - salmon and creamy cheese topped with crispy rice and teriyaki sauce",
+          "price": 125
+        },
+        {
+          "name": "MASAGO BERMUDA",
+          "desc": "crab and creamy cheese and shrimp topped with caviar",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "name": "SASHIMI",
+      "items": [
+        {
+          "name": "SALMON",
+          "price": 150
+        },
+        {
+          "name": "TUNA",
+          "price": 160
+        },
+        {
+          "name": "OCTOPUS",
+          "price": 120
+        },
+        {
+          "name": "SALMON TATAKI",
+          "price": 155
+        },
+        {
+          "name": "TUNA TATAKI",
+          "desc": "seared tuna served with ponzu sauce",
+          "price": 165
+        },
+        {
+          "name": "MIX SASHIMI",
+          "desc": "2 pieces from salmon , tuna . shrimp , octopus",
+          "price": 260
+        }
+      ]
+    },
+    {
+      "name": "FRIED ROLLS",
+      "items": [
+        {
+          "name": "SPICY LEMON",
+          "desc": "salmon and shrimp and creamy cheese topped with sicy mayo and green onion",
+          "price": 160
+        },
+        {
+          "name": "HOT URA SALMON",
+          "desc": "salmon and creamy cheese topped with lemon mayonnaise and teriyaki",
+          "price": 99
+        },
+        {
+          "name": "HOT URA TUNA",
+          "desc": "tuna and creamy cheese topped with siracha sauce",
+          "price": 115
+        },
+        {
+          "name": "HOT BANGKOK",
+          "desc": "shrimp tempura - creamy cheese - avocado topped with lemon mayo - teriyaki and caviar and green onions",
+          "price": 160
+        },
+        {
+          "name": "HOT DYNAMIT",
+          "desc": "salmon and creamy cheese topped with salmon",
+          "price": 135
+        },
+        {
+          "name": "CRUNCHY SALMON",
+          "desc": "salmon and creamy cheese topped with spring rolls and teriyaki",
+          "price": 120
+        },
+        {
+          "name": "CRUNCHY SHRIMP",
+          "desc": "shrimp tempura and creamy cheese topped with spring roll and teriyaki",
+          "price": 115
+        },
+        {
+          "name": "HOT HALLOWEEN",
+          "desc": "salmon - creamy cheese - crab topped with spicy mayo - lemon mayo - teriyaki - green onion",
+          "price": 160
+        },
+        {
+          "name": "SPIDER ROLL",
+          "desc": "shrimp tempura topped with teriyaki sauce",
+          "price": 115
+        },
+        {
+          "name": "FRIED JUNK KONAFA",
+          "desc": "creamy cheese topped with Konafa and shrimp tempura paste sweet chili",
+          "price": 220
+        },
+        {
+          "name": "ICHIBAN SPICY",
+          "desc": "shrimp tempura - creamy cheese with smoked salmon - cheddar cheese - sesame mayo and spicy mayo",
+          "price": 140
+        },
+        {
+          "name": "HOT PARMIGIANA CHEESE",
+          "desc": "shrimp tempura - crab tempura - creamy cheese - parmigiana sauce",
+          "price": 135
+        }
+      ]
+    }
+  ],
+  "whatsapp": "01065193599"
+}
